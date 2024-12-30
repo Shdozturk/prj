@@ -1,0 +1,1007 @@
+name,size,mounting_type,sensing_distance,output_type,operation_mode,connection_method,material_housing,io_link_baud_rate,overall_length,thread_length,degree_of_protection
+E2E-X10C1L30 5M,M30,Flush,10 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X10C1L30-M1,M30,Flush,10 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,65 mm,IP67/IP69K
+E2E-X10C230 2M,M30,Flush,10 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X10C230 5M,M30,Flush,10 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X10C230-M1,M30,Flush,10 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,58 mm,39 mm,IP67/IP69K
+E2E-X10C2L30 2M,M30,Flush,10 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X10C2L30-M1,M30,Flush,10 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,65 mm,IP67/IP69K
+E2E-X10C330-M1,M30,Flush,10 mm,NPN,NO + NC,Connector M12,"Brass, nickel plated",Not Applicable,58 mm,39 mm,IP67/IP69K
+E2E-X10MB1T12 2M,M12,Non-flush,10 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MB1T12-M1,M12,Non-flush,10 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),48 mm,26 mm,IP67/IP69K
+E2E-X10MB1T12-M1TJ 0.3M,M12,Non-flush,10 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MB1T12-R 2M,M12,Non-flush,10 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MB1T18 10M,M18,Non-flush,10 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X10MB1T18 2M,M18,Non-flush,10 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X10MB1T18 5M,M18,Non-flush,10 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X10MB1T18-M1,M18,Non-flush,10 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),53 mm,28 mm,IP67/IP69K
+E2E-X10MB1T18-M1TJ 0.3M,M18,Non-flush,10 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X10MB1T18-R 2M,M18,Non-flush,10 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X10MB1TL12 2M,M12,Non-flush,10 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X10MB1TL12-M1,M12,Non-flush,10 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),70 mm,48 mm,IP67/IP69K
+E2E-X10MB1TL12-M1TJ 0.3M,M12,Non-flush,10 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X10MB1TL18 2M,M18,Non-flush,10 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X10MB1TL18 5M,M18,Non-flush,10 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X10MB1TL18-M1,M18,Non-flush,10 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),75 mm,50 mm,IP67/IP69K
+E2E-X10MB212 2M,M12,Non-flush,10 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MB212-M1,M12,Non-flush,10 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,26 mm,IP67/IP69K
+E2E-X10MB218 2M,M18,Non-flush,10 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X10MB218 5M,M18,Non-flush,10 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X10MB218-M1,M18,Non-flush,10 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,28 mm,IP67/IP69K
+E2E-X10MB2L12 2M,M12,Non-flush,10 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X10MB2L12-M1,M12,Non-flush,10 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,48 mm,IP67/IP69K
+E2E-X10MB2L18 2M,M18,Non-flush,10 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X10MB2L18-M1,M18,Non-flush,10 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,50 mm,IP67/IP69K
+E2E-X10MB3D12-M1,M12,Non-flush,10 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),48 mm,26 mm,IP67/IP69K
+E2E-X10MC112-M1,M12,Non-flush,10 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,26 mm,IP67/IP69K
+E2E-X10MC118 2M,M18,Non-flush,10 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X10MC118 5M,M18,Non-flush,10 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X10MC118-M1,M18,Non-flush,10 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,28 mm,IP67/IP69K
+E2E-X10MC118-R 2M,M18,Non-flush,10 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X10MC1L18 2M,M18,Non-flush,10 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X10MC1L18 5M,M18,Non-flush,10 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X10MC1L18-M1,M18,Non-flush,10 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,50 mm,IP67/IP69K
+E2E-X10MC218 2M,M18,Non-flush,10 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X10MC218 5M,M18,Non-flush,10 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X10MC218-M1,M18,Non-flush,10 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,28 mm,IP67/IP69K
+E2E-X10MC2L18 2M,M18,Non-flush,10 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X10MC2L18-M1,M18,Non-flush,10 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,50 mm,IP67/IP69K
+E2E-X10MD112 2M,M12,Non-flush,10 mm,2-wire,NO,Cable,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD112 5M,M12,Non-flush,10 mm,2-wire,NO,Cable,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD112-M1TGJ 0.3M,M12,Non-flush,10 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD112-M1TGJ-T 0.3M,M12,Non-flush,10 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD112-R 2M,M12,Non-flush,10 mm,2-wire,NO,Cable,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD112-R 5M,M12,Non-flush,10 mm,2-wire,NO,Cable,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD112-T 2M,M12,Non-flush,10 mm,2-wire,NO,Cable,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD112-T 5M,M12,Non-flush,10 mm,2-wire,NO,Cable,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD112-TR 2M,M12,Non-flush,10 mm,2-wire,NO,Cable,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD112-TR 5M,M12,Non-flush,10 mm,2-wire,NO,Cable,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD212 2M,M12,Non-flush,10 mm,2-wire,NC,Cable,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD212 5M,M12,Non-flush,10 mm,2-wire,NC,Cable,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD212-M1TGJ 0.3M,M12,Non-flush,10 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD212-M1TGJ-T 0.3M,M12,Non-flush,10 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD212-R 2M,M12,Non-flush,10 mm,2-wire,NC,Cable,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD212-R 5M,M12,Non-flush,10 mm,2-wire,NC,Cable,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD212-T 2M,M12,Non-flush,10 mm,2-wire,NC,Cable,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD212-T 5M,M12,Non-flush,10 mm,2-wire,NC,Cable,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD212-TR 2M,M12,Non-flush,10 mm,2-wire,NC,Cable,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X10MD212-TR 5M,M12,Non-flush,10 mm,2-wire,NC,Cable,"Brass, nickel plated",,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X11D118 2M,M18,Quasi-flush,11 mm,2-wire,NO,Cable,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D118 5M,M18,Quasi-flush,11 mm,2-wire,NO,Cable,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D118-M1TGJ 0.3M,M18,Quasi-flush,11 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D118-M1TGJ-T 0.3M,M18,Quasi-flush,11 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D118-R 2M,M18,Quasi-flush,11 mm,2-wire,NO,Cable,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D118-R 5M,M18,Quasi-flush,11 mm,2-wire,NO,Cable,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D118-T 2M,M18,Quasi-flush,11 mm,2-wire,NO,Cable,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D118-T 5M,M18,Quasi-flush,11 mm,2-wire,NO,Cable,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D118-TR 2M,M18,Quasi-flush,11 mm,2-wire,NO,Cable,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D118-TR 5M,M18,Quasi-flush,11 mm,2-wire,NO,Cable,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D218 2M,M18,Quasi-flush,11 mm,2-wire,NC,Cable,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D218 5M,M18,Quasi-flush,11 mm,2-wire,NC,Cable,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D218-M1TGJ 0.3M,M18,Quasi-flush,11 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D218-M1TGJ-T 0.3M,M18,Quasi-flush,11 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D218-R 2M,M18,Quasi-flush,11 mm,2-wire,NC,Cable,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D218-R 5M,M18,Quasi-flush,11 mm,2-wire,NC,Cable,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D218-T 2M,M18,Quasi-flush,11 mm,2-wire,NC,Cable,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D218-T 5M,M18,Quasi-flush,11 mm,2-wire,NC,Cable,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D218-TR 2M,M18,Quasi-flush,11 mm,2-wire,NC,Cable,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X11D218-TR 5M,M18,Quasi-flush,11 mm,2-wire,NC,Cable,"Brass, nickel plated",,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X12B1T18 2M,M18,Quasi-flush,12 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X12B1T18 5M,M18,Quasi-flush,12 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X12B1T18-M1,M18,Quasi-flush,12 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),53 mm,33 mm,IP67/IP69K
+E2E-X12B1T18-M1TJ 0.3M,M18,Quasi-flush,12 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X12B1T18-R 2M,M18,Quasi-flush,12 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X12B1TL18 2M,M18,Quasi-flush,12 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,59 mm,IP67/IP67G/IP69K
+E2E-X12B1TL18-M1,M18,Quasi-flush,12 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),75 mm,59 mm,IP67/IP69K
+E2E-X12B1TL18-M1TJ 0.3M,M18,Quasi-flush,12 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,59 mm,IP67/IP67G/IP69K
+E2E-X12B218 2M,M18,Quasi-flush,12 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X12B218 5M,M18,Quasi-flush,12 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X12B218-M1,M18,Quasi-flush,12 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,33 mm,IP67/IP69K
+E2E-X12B218-M1TJ 0.3M,M18,Quasi-flush,12 mm,PNP,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",Not Applicable,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X12B2L18 2M,M18,Quasi-flush,12 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,59 mm,IP67/IP67G/IP69K
+E2E-X12B2L18-M1,M18,Quasi-flush,12 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,59 mm,IP67/IP69K
+E2E-X12B3D18 2M,M18,Quasi-flush,12 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X12B3D18-M1,M18,Quasi-flush,12 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),53 mm,33 mm,IP67/IP69K
+E2E-X12B3D18-M1TJ 0.3M,M18,Quasi-flush,12 mm,"IO-Link, PNP",NO + NC,M12 pigtail Smartclick connector,"Brass, nickel plated",COM2 (38.4 kbps),55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X12B3DL18 2M,M18,Quasi-flush,12 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),77.3 mm,59 mm,IP67/IP67G/IP69K
+E2E-X12B3DL18-M1,M18,Quasi-flush,12 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),75 mm,59 mm,IP67/IP69K
+E2E-X12C118 2M,M18,Quasi-flush,12 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X12C118-M1,M18,Quasi-flush,12 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,33 mm,IP67/IP69K
+E2E-X12C218 2M,M18,Quasi-flush,12 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X12C218 5M,M18,Quasi-flush,12 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X12C218-M1,M18,Quasi-flush,12 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,33 mm,IP67/IP69K
+E2E-X14B1T18 2M,M18,Quasi-flush,14 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X14B1T18-M1,M18,Quasi-flush,14 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),53 mm,33 mm,IP67/IP69K
+E2E-X14B1T18-M1TJ 0.3M,M18,Quasi-flush,14 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X14B1T18-M1TJR 0.3M,M18,Quasi-flush,14 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X14B1T18-R 2M,M18,Quasi-flush,14 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X14B1TL18 2M,M18,Quasi-flush,14 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,59 mm,IP67/IP67G/IP69K
+E2E-X14B1TL18-M1,M18,Quasi-flush,14 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),75 mm,59 mm,IP67/IP69K
+E2E-X14B1TL18-M1TJ 0.3M,M18,Quasi-flush,14 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,59 mm,IP67/IP67G/IP69K
+E2E-X14B218 2M,M18,Quasi-flush,14 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X14B218-M1,M18,Quasi-flush,14 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,33 mm,IP67/IP69K
+E2E-X14B2L18 2M,M18,Quasi-flush,14 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,59 mm,IP67/IP67G/IP69K
+E2E-X14B2L18-M1,M18,Quasi-flush,14 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,59 mm,IP67/IP69K
+E2E-X14C118 2M,M18,Flush,14 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X14C118-M1,M18,Quasi-flush,14 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,33 mm,IP67/IP69K
+E2E-X14C1L18 2M,M18,Flush,14 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,59 mm,IP67/IP67G/IP69K
+E2E-X14C1L18-M1,M18,Quasi-flush,14 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,59 mm,IP67/IP69K
+E2E-X14C218 2M,M18,Quasi-flush,14 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X14C218 5M,M18,Quasi-flush,14 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,33 mm,IP67/IP67G/IP69K
+E2E-X14C218-M1,M18,Quasi-flush,14 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,33 mm,IP67/IP69K
+E2E-X14C2L18 2M,M18,Flush,14 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,59 mm,IP67/IP67G/IP69K
+E2E-X15B1T30 10M,M30,Quasi-flush,15 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X15B1T30 2M,M30,Quasi-flush,15 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X15B1T30 5M,M30,Quasi-flush,15 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X15B1T30-M1,M30,Quasi-flush,15 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),58 mm,39 mm,IP67/IP69K
+E2E-X15B1T30-M1TJ 0.3M,M30,Quasi-flush,15 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X15B1T30-R 2M,M30,Quasi-flush,15 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X15B1TL30 2M,M30,Quasi-flush,15 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),82.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X15B1TL30 5M,M30,Quasi-flush,15 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),82.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X15B1TL30-M1,M30,Quasi-flush,15 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),80 mm,65 mm,IP67/IP69K
+E2E-X15B1TL30-M1TJ 0.3M,M30,Quasi-flush,15 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),82.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X15B230 10M,M30,Quasi-flush,15 mm,PNP,NC,Cable,"Brass, nickel plated",,60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X15B230 2M,M30,Quasi-flush,15 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X15B230 5M,M30,Quasi-flush,15 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X15B230-M1,M30,Quasi-flush,15 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,58 mm,39 mm,IP67/IP69K
+E2E-X15B2L30 2M,M30,Quasi-flush,15 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X15B2L30 5M,M30,Quasi-flush,15 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X15B2L30-M1,M30,Quasi-flush,15 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,65 mm,IP67/IP69K
+E2E-X15B3D30 2M,M30,Quasi-flush,15 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X15B3D30-M1,M30,Quasi-flush,15 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),58 mm,39 mm,IP67/IP69K
+E2E-X15B3D30-M1TJ 0.3M,M30,Quasi-flush,15 mm,"IO-Link, PNP",NO + NC,M12 pigtail Smartclick connector,"Brass, nickel plated",COM2 (38.4 kbps),60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X15B3DL30 2M,M30,Quasi-flush,15 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),82.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X15B3DL30 5M,M30,Quasi-flush,15 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),82.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X15B3DL30-M1,M30,Quasi-flush,15 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),80 mm,65 mm,IP67/IP69K
+E2E-X15C130 2M,M30,Quasi-flush,15 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X15C130 5M,M30,Quasi-flush,15 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X15C130-M1,M30,Quasi-flush,15 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,58 mm,39 mm,IP67/IP69K
+E2E-X15C1L30 2M,M30,Quasi-flush,15 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X15C1L30 5M,M30,Quasi-flush,15 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X15C1L30-M1,M30,Quasi-flush,15 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,65 mm,IP67/IP69K
+E2E-X15C230 2M,M30,Quasi-flush,15 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X15C230 5M,M30,Quasi-flush,15 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X15C230-M1,M30,Quasi-flush,15 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,58 mm,39 mm,IP67/IP69K
+E2E-X15C2L30 2M,M30,Quasi-flush,15 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X15C2L30 5M,M30,Quasi-flush,15 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X15C2L30-M1,M30,Quasi-flush,15 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,65 mm,IP67/IP69K
+E2E-X15C330 2M,M30,Quasi-flush,15 mm,NPN,NO + NC,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,39 mm,IP67/IP67G/IP69K
+E2E-X15C330-M1,M30,Quasi-flush,15 mm,NPN,NO + NC,Connector M12,"Brass, nickel plated",Not Applicable,58 mm,39 mm,IP67/IP69K
+E2E-X15C3L30 2M,M30,Quasi-flush,15 mm,NPN,NO + NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X15C3L30-M1,M30,Quasi-flush,15 mm,NPN,NO + NC,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,65 mm,IP67/IP69K
+E2E-X16MB1T12 2M,M12,Non-flush,16 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X16MB1T12-M1,M12,Non-flush,16 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),48 mm,26 mm,IP67/IP69K
+E2E-X16MB1T12-M1TJ 0.3M,M12,Non-flush,16 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X16MB1T12-R 2M,M12,Non-flush,16 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X16MB1T18 10M,M18,Non-flush,16 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X16MB1T18 2M,M18,Non-flush,16 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X16MB1T18 5M,M18,Non-flush,16 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X16MB1T18-M1,M18,Non-flush,16 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),53 mm,28 mm,IP67/IP69K
+E2E-X16MB1T18-M1TJ 0.3M,M18,Non-flush,16 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X16MB1T18-R 2M,M18,Non-flush,16 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X16MB1TL12 2M,M12,Non-flush,16 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X16MB1TL12-M1,M12,Non-flush,16 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),70 mm,48 mm,IP67/IP69K
+E2E-X16MB1TL12-M1TJ 0.3M,M12,Non-flush,16 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X16MB1TL18 2M,M18,Non-flush,16 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X16MB1TL18 5M,M18,Non-flush,16 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X16MB1TL18-M1,M18,Non-flush,16 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),75 mm,50 mm,IP67/IP69K
+E2E-X16MB1TL18-M1TJ 0.3M,M18,Non-flush,16 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X16MB212 2M,M12,Non-flush,16 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X16MB212-M1,M12,Non-flush,16 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,26 mm,IP67/IP69K
+E2E-X16MB218 2M,M18,Non-flush,16 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X16MB218 5M,M18,Non-flush,16 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X16MB218-M1,M18,Non-flush,16 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,28 mm,IP67/IP69K
+E2E-X16MB2L12 2M,M12,Non-flush,16 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X16MB2L12-M1,M12,Non-flush,16 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,48 mm,IP67/IP69K
+E2E-X16MB2L18 2M,M18,Non-flush,16 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X16MB2L18 5M,M18,Non-flush,16 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X16MB2L18-M1,M18,Non-flush,16 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,50 mm,IP67/IP69K
+E2E-X16MB3D18 2M,M18,Non-flush,16 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X16MB3D18-M1,M18,Non-flush,16 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),53 mm,28 mm,IP67/IP69K
+E2E-X16MB3D18-M1TJ 0.3M,M18,Non-flush,16 mm,"IO-Link, PNP",NO + NC,M12 pigtail Smartclick connector,"Brass, nickel plated",COM2 (38.4 kbps),55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X16MB3DL18 2M,M18,Non-flush,16 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X16MB3DL18-M1,M18,Non-flush,16 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),75 mm,50 mm,IP67/IP69K
+E2E-X16MC112-M1,M12,Non-flush,16 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,26 mm,IP67/IP69K
+E2E-X16MC118 2M,M18,Non-flush,16 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X16MC118 5M,M18,Non-flush,16 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X16MC118-M1,M18,Non-flush,16 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,28 mm,IP67/IP69K
+E2E-X16MC1L12 2M,M12,Non-flush,16 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X16MC1L18 2M,M18,Non-flush,16 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X16MC1L18 5M,M18,Non-flush,16 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X16MC1L18-M1,M18,Non-flush,16 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,50 mm,IP67/IP69K
+E2E-X16MC212 2M,M12,Non-flush,16 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X16MC218 2M,M18,Non-flush,16 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X16MC218 5M,M18,Non-flush,16 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X16MC218-M1,M18,Non-flush,16 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,28 mm,IP67/IP69K
+E2E-X16MC2L12 2M,M12,Non-flush,16 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X16MC2L18 2M,M18,Non-flush,16 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X16MC2L18 5M,M18,Non-flush,16 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X16MC2L18-M1,M18,Non-flush,16 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,50 mm,IP67/IP69K
+E2E-X16MC318 2M,M18,Non-flush,16 mm,NPN,NO + NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,28 mm,IP67/IP67G/IP69K
+E2E-X16MC318-M1,M18,Non-flush,16 mm,NPN,NO + NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,28 mm,IP67/IP69K
+E2E-X16MC3L18 2M,M18,Non-flush,16 mm,NPN,NO + NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X16MC3L18-M1,M18,Non-flush,16 mm,NPN,NO + NC,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,50 mm,IP67/IP69K
+E2E-X18MB1T30 2M,M30,Non-flush,18 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),60.3 mm,30 mm,IP67/IP67G/IP69K
+E2E-X18MB1T30 5M,M30,Non-flush,18 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),60.3 mm,30 mm,IP67/IP67G/IP69K
+E2E-X18MB1T30-M1,M30,Non-flush,18 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),58 mm,30 mm,IP67/IP69K
+E2E-X18MB1T30-M1TJ 0.3M,M30,Non-flush,18 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),60.3 mm,30 mm,IP67/IP67G/IP69K
+E2E-X18MB1T30-R 2M,M30,Non-flush,18 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),60.3 mm,30 mm,IP67/IP67G/IP69K
+E2E-X18MB1TL30 2M,M30,Non-flush,18 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),82.3 mm,52 mm,IP67/IP67G/IP69K
+E2E-X18MB1TL30 5M,M30,Non-flush,18 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),82.3 mm,52 mm,IP67/IP67G/IP69K
+E2E-X18MB1TL30-M1,M30,Non-flush,18 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),80 mm,52 mm,IP67/IP69K
+E2E-X18MB230 2M,M30,Non-flush,18 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,30 mm,IP67/IP67G/IP69K
+E2E-X18MB230 5M,M30,Non-flush,18 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,30 mm,IP67/IP67G/IP69K
+E2E-X18MB230-M1,M30,Non-flush,18 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,58 mm,30 mm,IP67/IP69K
+E2E-X18MB2L30 2M,M30,Non-flush,18 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,52 mm,IP67/IP67G/IP69K
+E2E-X18MB2L30-M1,M30,Non-flush,18 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,52 mm,IP67/IP69K
+E2E-X18MC130 2M,M30,Non-flush,18 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,30 mm,IP67/IP67G/IP69K
+E2E-X18MC130 5M,M30,Non-flush,18 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,30 mm,IP67/IP67G/IP69K
+E2E-X18MC130-M1,M30,Non-flush,18 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,58 mm,30 mm,IP67/IP69K
+E2E-X18MC130-M1TJ 0.3M,M30,Non-flush,18 mm,NPN,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",Not Applicable,60.3 mm,30 mm,IP67/IP67G/IP69K
+E2E-X18MC130-R 2M,M30,Non-flush,18 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,30 mm,IP67/IP67G/IP69K
+E2E-X18MC1L30 2M,M30,Non-flush,18 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,52 mm,IP67/IP67G/IP69K
+E2E-X18MC1L30 5M,M30,Non-flush,18 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,52 mm,IP67/IP67G/IP69K
+E2E-X18MC1L30-M1,M30,Non-flush,18 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,52 mm,IP67/IP69K
+E2E-X18MC230 2M,M30,Non-flush,18 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,30 mm,IP67/IP67G/IP69K
+E2E-X18MC230 5M,M30,Non-flush,18 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,30 mm,IP67/IP67G/IP69K
+E2E-X18MC230-M1,M30,Non-flush,18 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,58 mm,30 mm,IP67/IP69K
+E2E-X18MC2L30 2M,M30,Non-flush,18 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,52 mm,IP67/IP67G/IP69K
+E2E-X18MC2L30-M1,M30,Non-flush,18 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,52 mm,IP67/IP69K
+E2E-X1R5B1T8 2M,M8,Flush,1.5 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X1R5B1T8 5M,M8,Flush,1.5 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X1R5B1T8-M1,M8,Flush,1.5 mm,"IO-Link, PNP",NO,Connector M12,Stainless steel,COM3 (230.4 kbps),43 mm,22 mm,IP67/IP69K
+E2E-X1R5B1T8-M3,M8,Flush,1.5 mm,"IO-Link, PNP",NO,Connector M8 - 4 pin,Stainless steel,COM3 (230.4 kbps),39 mm,22 mm,IP67/IP69K
+E2E-X1R5B1T8-M5,M8,Flush,1.5 mm,"IO-Link, PNP",NO,Connector M8 - 3 pin,Stainless steel,COM3 (230.4 kbps),39 mm,22 mm,IP67/IP69K
+E2E-X1R5B1T8-R 2M,M8,Flush,1.5 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X1R5B1T8-R 5M,M8,Flush,1.5 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X1R5B1TL8 2M,M8,Flush,1.5 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),47.8 mm,36 mm,IP67/IP67G/IP69K
+E2E-X1R5B1TL8 5M,M8,Flush,1.5 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),47.8 mm,36 mm,IP67/IP67G/IP69K
+E2E-X1R5B1TL8-M1,M8,Flush,1.5 mm,"IO-Link, PNP",NO,Connector M12,Stainless steel,COM3 (230.4 kbps),53 mm,36 mm,IP67/IP69K
+E2E-X1R5B1TL8-M3,M8,Flush,1.5 mm,"IO-Link, PNP",NO,Connector M8 - 4 pin,Stainless steel,COM3 (230.4 kbps),49 mm,36 mm,IP67/IP69K
+E2E-X1R5B1TL8-M5,M8,Flush,1.5 mm,"IO-Link, PNP",NO,Connector M8 - 3 pin,Stainless steel,COM3 (230.4 kbps),49 mm,36 mm,IP67/IP69K
+E2E-X1R5B28 2M,M8,Flush,1.5 mm,PNP,NC,Cable,Stainless steel,Not Applicable,37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X1R5B28 5M,M8,Flush,1.5 mm,PNP,NC,Cable,Stainless steel,Not Applicable,37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X1R5B28-M1,M8,Flush,1.5 mm,PNP,NC,Connector M12,Stainless steel,Not Applicable,43 mm,22 mm,IP67/IP69K
+E2E-X1R5B28-M3,M8,Flush,1.5 mm,PNP,NC,Connector M8 - 4 pin,Stainless steel,Not Applicable,39 mm,22 mm,IP67/IP69K
+E2E-X1R5B28-R 5M,M8,Flush,1.5 mm,PNP,NC,Cable,Stainless steel,Not Applicable,37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X1R5C18 2M,M8,Flush,1.5 mm,NPN,NO,Cable,Stainless steel,Not Applicable,37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X1R5C18 5M,M8,Flush,1.5 mm,NPN,NO,Cable,Stainless steel,Not Applicable,37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X1R5C18-M1,M8,Flush,1.5 mm,NPN,NO,Connector M12,Stainless steel,Not Applicable,43 mm,22 mm,IP67/IP69K
+E2E-X1R5C18-M3,M8,Flush,1.5 mm,NPN,NO,Connector M8 - 4 pin,Stainless steel,Not Applicable,39 mm,22 mm,IP67/IP69K
+E2E-X1R5C18-M5,M8,Flush,1.5 mm,NPN,NO,Connector M8 - 3 pin,Stainless steel,Not Applicable,39 mm,22 mm,IP67/IP69K
+E2E-X1R5C18-R 2M,M8,Flush,1.5 mm,NPN,NO,Cable,Stainless steel,Not Applicable,37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X1R5C1L8-M5,M8,Flush,1.5 mm,NPN,NO,Connector M8 - 3 pin,Stainless steel,Not Applicable,49 mm,36 mm,IP67/IP69K
+E2E-X1R5C28 2M,M8,Flush,1.5 mm,NPN,NC,Cable,Stainless steel,Not Applicable,37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X1R5C28 5M,M8,Flush,1.5 mm,NPN,NC,Cable,Stainless steel,Not Applicable,37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X1R5C28-M1,M8,Flush,1.5 mm,NPN,NC,Connector M12,Stainless steel,Not Applicable,43 mm,22 mm,IP67/IP69K
+E2E-X1R5C28-M3,M8,Flush,1.5 mm,NPN,NC,Connector M8 - 4 pin,Stainless steel,Not Applicable,39 mm,22 mm,IP67/IP69K
+E2E-X1R5D1-M1TGJ 0.3M,M8,Flush,1.5 mm,2-wire,NO,M12 pigtail Smartclick connector,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D1-M1TGJ-T 0.3M,M8,Flush,1.5 mm,2-wire,NO,M12 pigtail Smartclick connector,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D1-N 2M,M8,Flush,1.5 mm,2-wire,NO,Cable,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D1-N 5M,M8,Flush,1.5 mm,2-wire,NO,Cable,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D1-R-N 2M,M8,Flush,1.5 mm,2-wire,NO,Cable,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D1-R-N 5M,M8,Flush,1.5 mm,2-wire,NO,Cable,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D1-T-N 2M,M8,Flush,1.5 mm,2-wire,NO,Cable,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D1-T-N 5M,M8,Flush,1.5 mm,2-wire,NO,Cable,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D1-TR-N 2M,M8,Flush,1.5 mm,2-wire,NO,Cable,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D1-TR-N 5M,M8,Flush,1.5 mm,2-wire,NO,Cable,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D2-M1TGJ 0.3M,M8,Flush,1.5 mm,2-wire,NC,M12 pigtail Smartclick connector,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D2-M1TGJ-T 0.3M,M8,Flush,1.5 mm,2-wire,NC,M12 pigtail Smartclick connector,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D2-N 2M,M8,Flush,1.5 mm,2-wire,NC,Cable,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D2-N 5M,M8,Flush,1.5 mm,2-wire,NC,Cable,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D2-R-N 2M,M8,Flush,1.5 mm,2-wire,NC,Cable,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D2-R-N 5M,M8,Flush,1.5 mm,2-wire,NC,Cable,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D2-T-N 2M,M8,Flush,1.5 mm,2-wire,NC,Cable,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D2-T-N 5M,M8,Flush,1.5 mm,2-wire,NC,Cable,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D2-TR-N 2M,M8,Flush,1.5 mm,2-wire,NC,Cable,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X1R5D2-TR-N 5M,M8,Flush,1.5 mm,2-wire,NC,Cable,Stainless steel,,37.6 mm,25.8 mm,IP67/IP67G/IP69K
+E2E-X20D130 2M,M30,Quasi-flush,20 mm,2-wire,NO,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D130 5M,M30,Quasi-flush,20 mm,2-wire,NO,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D130-M1TGJ 0.3M,M30,Quasi-flush,20 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D130-M1TGJ-T 0.3M,M30,Quasi-flush,20 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D130-R 2M,M30,Quasi-flush,20 mm,2-wire,NO,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D130-R 5M,M30,Quasi-flush,20 mm,2-wire,NO,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D130-T 2M,M30,Quasi-flush,20 mm,2-wire,NO,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D130-T 5M,M30,Quasi-flush,20 mm,2-wire,NO,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D130-TR 2M,M30,Quasi-flush,20 mm,2-wire,NO,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D130-TR 5M,M30,Quasi-flush,20 mm,2-wire,NO,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D230 2M,M30,Quasi-flush,20 mm,2-wire,NC,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D230 5M,M30,Quasi-flush,20 mm,2-wire,NC,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D230-M1TGJ 0.3M,M30,Quasi-flush,20 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D230-M1TGJ-T 0.3M,M30,Quasi-flush,20 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D230-R 2M,M30,Quasi-flush,20 mm,2-wire,NC,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D230-R 5M,M30,Quasi-flush,20 mm,2-wire,NC,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D230-T 2M,M30,Quasi-flush,20 mm,2-wire,NC,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D230-T 5M,M30,Quasi-flush,20 mm,2-wire,NC,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D230-TR 2M,M30,Quasi-flush,20 mm,2-wire,NC,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20D230-TR 5M,M30,Quasi-flush,20 mm,2-wire,NC,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X20MB1TL18 2M,M18,Non-flush,20 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MB1TL18-M1,M18,Non-flush,20 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),75 mm,47 mm,IP67/IP69K
+E2E-X20MB1TL18-M1TJ 0.3M,M18,Non-flush,20 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MB1TL18-R 2M,M18,Non-flush,20 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MB2L18 2M,M18,Non-flush,20 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MB2L18-M1,M18,Non-flush,20 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,47 mm,IP67/IP69K
+E2E-X20MB3DL18 2M,M18,Non-flush,20 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MB3DL18-M1,M18,Non-flush,20 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),75 mm,47 mm,IP67/IP69K
+E2E-X20MC1L18 2M,M18,Non-flush,20 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD1L18 2M,M18,Non-flush,20 mm,2-wire,NO,Cable,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD1L18 5M,M18,Non-flush,20 mm,2-wire,NO,Cable,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD1L18-M1TGJ 0.3M,M18,Non-flush,20 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD1L18-M1TGJ-T 0.3M,M18,Non-flush,20 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD1L18-R 2M,M18,Non-flush,20 mm,2-wire,NO,Cable,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD1L18-R 5M,M18,Non-flush,20 mm,2-wire,NO,Cable,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD1L18-T 2M,M18,Non-flush,20 mm,2-wire,NO,Cable,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD1L18-T 5M,M18,Non-flush,20 mm,2-wire,NO,Cable,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD1L18-TR 2M,M18,Non-flush,20 mm,2-wire,NO,Cable,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD1L18-TR 5M,M18,Non-flush,20 mm,2-wire,NO,Cable,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD2L18 2M,M18,Non-flush,20 mm,2-wire,NC,Cable,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD2L18 5M,M18,Non-flush,20 mm,2-wire,NC,Cable,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD2L18-M1TGJ 0.3M,M18,Non-flush,20 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD2L18-M1TGJ-T 0.3M,M18,Non-flush,20 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD2L18-R 2M,M18,Non-flush,20 mm,2-wire,NC,Cable,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD2L18-R 5M,M18,Non-flush,20 mm,2-wire,NC,Cable,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD2L18-T 2M,M18,Non-flush,20 mm,2-wire,NC,Cable,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD2L18-T 5M,M18,Non-flush,20 mm,2-wire,NC,Cable,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD2L18-TR 2M,M18,Non-flush,20 mm,2-wire,NC,Cable,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X20MD2L18-TR 5M,M18,Non-flush,20 mm,2-wire,NC,Cable,"Brass, nickel plated",,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X22B1T30 2M,M30,Quasi-flush,22 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X22B1T30 5M,M30,Quasi-flush,22 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X22B1T30-M1,M30,Quasi-flush,22 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),58 mm,38 mm,IP67/IP69K
+E2E-X22B1T30-M1TJ 0.3M,M30,Quasi-flush,22 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X22B1T30-R 2M,M30,Quasi-flush,22 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X22B1TL30 2M,M30,Quasi-flush,22 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),82.3 mm,64 mm,IP67/IP67G/IP69K
+E2E-X22B1TL30-M1,M30,Quasi-flush,22 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),80 mm,64 mm,IP67/IP69K
+E2E-X22B1TL30-M1TJ 0.3M,M30,Quasi-flush,22 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),82.3 mm,64 mm,IP67/IP67G/IP69K
+E2E-X22B230 10M,M30,Quasi-flush,22 mm,PNP,NC,Cable,"Brass, nickel plated",,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X22B230 2M,M30,Quasi-flush,22 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X22B230 5M,M30,Quasi-flush,22 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X22B230-M1,M30,Quasi-flush,22 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,58 mm,38 mm,IP67/IP69K
+E2E-X22B2L30 2M,M30,Quasi-flush,22 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,64 mm,IP67/IP67G/IP69K
+E2E-X22B2L30-M1,M30,Quasi-flush,22 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,64 mm,IP67/IP69K
+E2E-X22B3D30-M1,M30,Quasi-flush,22 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),58 mm,38 mm,IP67/IP69K
+E2E-X22B3DL30-M1,M30,Quasi-flush,22 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),80 mm,64 mm,IP67/IP69K
+E2E-X22C130 2M,M30,Quasi-flush,22 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X22C130-M1,M30,Quasi-flush,22 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,58 mm,38 mm,IP67/IP69K
+E2E-X22C1L30-M1,M30,Quasi-flush,22 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,64 mm,IP67/IP69K
+E2E-X22C230 2M,M30,Quasi-flush,22 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X22C230-M1,M30,Quasi-flush,22 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,58 mm,38 mm,IP67/IP69K
+E2E-X23B1T30 2M,M30,Quasi-flush,23 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X23B1T30-M1,M30,Quasi-flush,23 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),58 mm,38 mm,IP67/IP69K
+E2E-X23B1T30-M1TJ 0.3M,M30,Quasi-flush,23 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X23B1T30-R 2M,M30,Quasi-flush,23 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X23B1TL30 2M,M30,Quasi-flush,23 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),82.3 mm,64 mm,IP67/IP67G/IP69K
+E2E-X23B1TL30-M1,M30,Quasi-flush,23 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),80 mm,64 mm,IP67/IP69K
+E2E-X23B1TL30-M1TJ 0.3M,M30,Quasi-flush,23 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),82.3 mm,64 mm,IP67/IP67G/IP69K
+E2E-X23B230 2M,M30,Quasi-flush,23 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X23B230-M1,M30,Quasi-flush,23 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,58 mm,38 mm,IP67/IP69K
+E2E-X23B2L30 2M,M30,Quasi-flush,23 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,64 mm,IP67/IP67G/IP69K
+E2E-X23B2L30-M1,M30,Quasi-flush,23 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,64 mm,IP67/IP69K
+E2E-X23C130 2M,M30,Flush,23 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X23C130-M1,M30,Quasi-flush,23 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,58 mm,38 mm,IP67/IP69K
+E2E-X23C230 2M,M30,Quasi-flush,23 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,60.3 mm,38 mm,IP67/IP67G/IP69K
+E2E-X23C230-M1,M30,Quasi-flush,23 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,58 mm,38 mm,IP67/IP69K
+E2E-X23C2L30-M1,M30,Quasi-flush,23 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,64 mm,IP67/IP69K
+E2E-X2B1T12 2M,M12,Flush,2 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X2B1T12 5M,M12,Flush,2 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X2B1T12-M1,M12,Flush,2 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),48 mm,29 mm,IP67/IP69K
+E2E-X2B1T12-M1TJ 0.3M,M12,Flush,2 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X2B1T12-R 2M,M12,Flush,2 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X2B1T8 10M,M8,Flush,2 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X2B1T8 2M,M8,Flush,2 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X2B1T8 5M,M8,Flush,2 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X2B1T8-M1,M8,Flush,2 mm,"IO-Link, PNP",NO,Connector M12,Stainless steel,COM3 (230.4 kbps),43 mm,22 mm,IP67/IP69K
+E2E-X2B1T8-M1TJ 0.3M,M8,Flush,2 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,Stainless steel,COM3 (230.4 kbps),37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X2B1T8-M3,M8,Flush,2 mm,"IO-Link, PNP",NO,Connector M8 - 4 pin,Stainless steel,COM3 (230.4 kbps),39 mm,22 mm,IP67/IP69K
+E2E-X2B1T8-M5,M8,Flush,2 mm,"IO-Link, PNP",NO,Connector M8 - 3 pin,Stainless steel,COM3 (230.4 kbps),39 mm,22 mm,IP67/IP69K
+E2E-X2B1T8-R 2M,M8,Flush,2 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X2B1TL12 2M,M12,Flush,2 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X2B1TL12 5M,M12,Flush,2 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X2B1TL12-M1,M12,Flush,2 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),70 mm,55 mm,IP67/IP69K
+E2E-X2B1TL8 2M,M8,Flush,2 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),47.8 mm,36 mm,IP67/IP67G/IP69K
+E2E-X2B1TL8 5M,M8,Flush,2 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),47.8 mm,36 mm,IP67/IP67G/IP69K
+E2E-X2B1TL8-M1,M8,Flush,2 mm,"IO-Link, PNP",NO,Connector M12,Stainless steel,COM3 (230.4 kbps),53 mm,36 mm,IP67/IP69K
+E2E-X2B1TL8-M1TJ 0.3M,M8,Flush,2 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,Stainless steel,COM3 (230.4 kbps),47.8 mm,36 mm,IP67/IP67G/IP69K
+E2E-X2B1TL8-M3,M8,Flush,2 mm,"IO-Link, PNP",NO,Connector M8 - 4 pin,Stainless steel,COM3 (230.4 kbps),49 mm,36 mm,IP67/IP69K
+E2E-X2B1TL8-M5,M8,Flush,2 mm,"IO-Link, PNP",NO,Connector M8 - 3 pin,Stainless steel,COM3 (230.4 kbps),49 mm,36 mm,IP67/IP69K
+E2E-X2B212 2M,M12,Flush,2 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X2B212 5M,M12,Flush,2 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X2B212-M1,M12,Flush,2 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,29 mm,IP67/IP69K
+E2E-X2B212-M1TJ 0.3M,M12,Flush,2 mm,PNP,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X2B28 10M,M8,Flush,2 mm,PNP,NC,Cable,Stainless steel,,37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X2B28 2M,M8,Flush,2 mm,PNP,NC,Cable,Stainless steel,Not Applicable,37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X2B28 5M,M8,Flush,2 mm,PNP,NC,Cable,Stainless steel,Not Applicable,37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X2B28-M1,M8,Flush,2 mm,PNP,NC,Connector M12,Stainless steel,Not Applicable,43 mm,22 mm,IP67/IP69K
+E2E-X2B28-M3,M8,Flush,2 mm,PNP,NC,Connector M8 - 4 pin,Stainless steel,Not Applicable,39 mm,22 mm,IP67/IP69K
+E2E-X2B28-M5,M8,Flush,2 mm,PNP,NC,Connector M8 - 3 pin,Stainless steel,Not Applicable,39 mm,22 mm,IP67/IP69K
+E2E-X2B2L12 2M,M12,Flush,2 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X2B2L12 5M,M12,Flush,2 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X2B2L12-M1,M12,Flush,2 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,55 mm,IP67/IP69K
+E2E-X2B2L8 2M,M8,Flush,2 mm,PNP,NC,Cable,Stainless steel,Not Applicable,47.8 mm,36 mm,IP67/IP67G/IP69K
+E2E-X2B2L8 5M,M8,Flush,2 mm,PNP,NC,Cable,Stainless steel,Not Applicable,47.8 mm,36 mm,IP67/IP67G/IP69K
+E2E-X2B2L8-M1,M8,Flush,2 mm,PNP,NC,Connector M12,Stainless steel,Not Applicable,53 mm,36 mm,IP67/IP69K
+E2E-X2B2L8-M3,M8,Flush,2 mm,PNP,NC,Connector M8 - 4 pin,Stainless steel,Not Applicable,49 mm,36 mm,IP67/IP69K
+E2E-X2B2L8-M5,M8,Flush,2 mm,PNP,NC,Connector M8 - 3 pin,Stainless steel,Not Applicable,49 mm,36 mm,IP67/IP69K
+E2E-X2B3D12-M1,M12,Flush,2 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),48 mm,29 mm,IP67/IP69K
+E2E-X2B3DL8-M1,M8,Flush,2 mm,"IO-Link, PNP",NO + NC,Connector M12,Stainless steel,COM2 (38.4 kbps),53 mm,36 mm,IP67/IP69K
+E2E-X2C112 2M,M12,Flush,2 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X2C112 5M,M12,Flush,2 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X2C112-M1,M12,Flush,2 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,29 mm,IP67/IP69K
+E2E-X2C112-M1TJ 0.3M,M12,Flush,2 mm,NPN,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X2C112-R 2M,M12,Flush,2 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X2C18 2M,M8,Flush,2 mm,NPN,NO,Cable,Stainless steel,Not Applicable,37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X2C18 5M,M8,Flush,2 mm,NPN,NO,Cable,Stainless steel,Not Applicable,37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X2C18-M1,M8,Flush,2 mm,NPN,NO,Connector M12,Stainless steel,Not Applicable,43 mm,22 mm,IP67/IP69K
+E2E-X2C18-M3,M8,Flush,2 mm,NPN,NO,Connector M8 - 4 pin,Stainless steel,Not Applicable,39 mm,22 mm,IP67/IP69K
+E2E-X2C18-M5,M8,Flush,2 mm,NPN,NO,Connector M8 - 3 pin,Stainless steel,Not Applicable,39 mm,22 mm,IP67/IP69K
+E2E-X2C1L12 2M,M12,Flush,2 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X2C1L12 5M,M12,Flush,2 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X2C1L12-M1,M12,Flush,2 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,55 mm,IP67/IP69K
+E2E-X2C1L8 2M,M8,Flush,2 mm,NPN,NO,Cable,Stainless steel,Not Applicable,47.8 mm,36 mm,IP67/IP67G/IP69K
+E2E-X2C1L8 5M,M8,Flush,2 mm,NPN,NO,Cable,Stainless steel,Not Applicable,47.8 mm,36 mm,IP67/IP67G/IP69K
+E2E-X2C1L8-M1,M8,Flush,2 mm,NPN,NO,Connector M12,Stainless steel,Not Applicable,53 mm,36 mm,IP67/IP69K
+E2E-X2C1L8-M3,M8,Flush,2 mm,NPN,NO,Connector M8 - 4 pin,Stainless steel,Not Applicable,49 mm,36 mm,IP67/IP69K
+E2E-X2C1L8-M5,M8,Flush,2 mm,NPN,NO,Connector M8 - 3 pin,Stainless steel,Not Applicable,49 mm,36 mm,IP67/IP69K
+E2E-X2C212 2M,M12,Flush,2 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X2C212 5M,M12,Flush,2 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X2C212-M1,M12,Flush,2 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,29 mm,IP67/IP69K
+E2E-X2C28 2M,M8,Flush,2 mm,NPN,NC,Cable,Stainless steel,Not Applicable,37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X2C28 5M,M8,Flush,2 mm,NPN,NC,Cable,Stainless steel,Not Applicable,37.8 mm,22 mm,IP67/IP67G/IP69K
+E2E-X2C28-M1,M8,Flush,2 mm,NPN,NC,Connector M12,Stainless steel,Not Applicable,43 mm,22 mm,IP67/IP69K
+E2E-X2C28-M3,M8,Flush,2 mm,NPN,NC,Connector M8 - 4 pin,Stainless steel,Not Applicable,39 mm,22 mm,IP67/IP69K
+E2E-X2C28-M5,M8,Flush,2 mm,NPN,NC,Connector M8 - 3 pin,Stainless steel,Not Applicable,39 mm,22 mm,IP67/IP69K
+E2E-X2C2L12 2M,M12,Flush,2 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X2C2L12-M1,M12,Flush,2 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,55 mm,IP67/IP69K
+E2E-X2C2L8 2M,M8,Flush,2 mm,NPN,NC,Cable,Stainless steel,Not Applicable,47.8 mm,36 mm,IP67/IP67G/IP69K
+E2E-X2C2L8 5M,M8,Flush,2 mm,NPN,NC,Cable,Stainless steel,Not Applicable,47.8 mm,36 mm,IP67/IP67G/IP69K
+E2E-X2C2L8-M1,M8,Flush,2 mm,NPN,NC,Connector M12,Stainless steel,Not Applicable,53 mm,36 mm,IP67/IP69K
+E2E-X2C2L8-M3,M8,Flush,2 mm,NPN,NC,Connector M8 - 4 pin,Stainless steel,Not Applicable,49 mm,36 mm,IP67/IP69K
+E2E-X2C2L8-M5,M8,Flush,2 mm,NPN,NC,Connector M8 - 3 pin,Stainless steel,Not Applicable,49 mm,36 mm,IP67/IP69K
+E2E-X2C3L12-M1,M12,Flush,2 mm,NPN,NO + NC,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,55 mm,IP67/IP69K
+E2E-X2MB1T8 2M,M8,Non-flush,2 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X2MB1T8 5M,M8,Non-flush,2 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X2MB1T8-M1,M8,Non-flush,2 mm,"IO-Link, PNP",NO,Connector M12,Stainless steel,COM3 (230.4 kbps),43 mm,20 mm,IP67/IP69K
+E2E-X2MB1T8-M3,M8,Non-flush,2 mm,"IO-Link, PNP",NO,Connector M8 - 4 pin,Stainless steel,COM3 (230.4 kbps),39 mm,20 mm,IP67/IP69K
+E2E-X2MB1T8-M5,M8,Non-flush,2 mm,"IO-Link, PNP",NO,Connector M8 - 3 pin,Stainless steel,COM3 (230.4 kbps),39 mm,20 mm,IP67/IP69K
+E2E-X2MB1T8-R 2M,M8,Non-flush,2 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X2MB28 2M,M8,Non-flush,2 mm,PNP,NC,Cable,Stainless steel,Not Applicable,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X2MB28 5M,M8,Non-flush,2 mm,PNP,NC,Cable,Stainless steel,Not Applicable,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X2MB28-M1,M8,Non-flush,2 mm,PNP,NC,Connector M12,Stainless steel,Not Applicable,43 mm,20 mm,IP67/IP69K
+E2E-X2MB28-M3,M8,Non-flush,2 mm,PNP,NC,Connector M8 - 4 pin,Stainless steel,Not Applicable,39 mm,20 mm,IP67/IP69K
+E2E-X2MC18 2M,M8,Non-flush,2 mm,NPN,NO,Cable,Stainless steel,Not Applicable,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X2MC18 5M,M8,Non-flush,2 mm,NPN,NO,Cable,Stainless steel,Not Applicable,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X2MC18-M1,M8,Non-flush,2 mm,NPN,NO,Connector M12,Stainless steel,Not Applicable,43 mm,20 mm,IP67/IP69K
+E2E-X2MC18-M3,M8,Non-flush,2 mm,NPN,NO,Connector M8 - 4 pin,Stainless steel,Not Applicable,39 mm,20 mm,IP67/IP69K
+E2E-X2MC18-R 2M,M8,Non-flush,2 mm,NPN,NO,Cable,Stainless steel,Not Applicable,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X2MC28 2M,M8,Non-flush,2 mm,NPN,NC,Cable,Stainless steel,Not Applicable,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X2MC28 5M,M8,Non-flush,2 mm,NPN,NC,Cable,Stainless steel,Not Applicable,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X2MC28-M1,M8,Non-flush,2 mm,NPN,NC,Connector M12,Stainless steel,Not Applicable,43 mm,20 mm,IP67/IP69K
+E2E-X2MC28-M3,M8,Non-flush,2 mm,NPN,NC,Connector M8 - 4 pin,Stainless steel,Not Applicable,39 mm,20 mm,IP67/IP69K
+E2E-X2R5D1-M1TGJ 0.3M,M12,Flush,2.5 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D1-M1TGJ-T 0.3M,M12,Flush,2.5 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D1-N 2M,M12,Flush,2.5 mm,2-wire,NO,Cable,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D1-N 5M,M12,Flush,2.5 mm,2-wire,NO,Cable,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D1-R-N 2M,M12,Flush,2.5 mm,2-wire,NO,Cable,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D1-R-N 5M,M12,Flush,2.5 mm,2-wire,NO,Cable,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D1-T-N 2M,M12,Flush,2.5 mm,2-wire,NO,Cable,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D1-T-N 5M,M12,Flush,2.5 mm,2-wire,NO,Cable,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D1-TR-N 2M,M12,Flush,2.5 mm,2-wire,NO,Cable,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D1-TR-N 5M,M12,Flush,2.5 mm,2-wire,NO,Cable,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D2-M1TGJ 0.3M,M12,Flush,2.5 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D2-M1TGJ-T 0.3M,M12,Flush,2.5 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D2-N 2M,M12,Flush,2.5 mm,2-wire,NC,Cable,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D2-N 5M,M12,Flush,2.5 mm,2-wire,NC,Cable,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D2-R-N 2M,M12,Flush,2.5 mm,2-wire,NC,Cable,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D2-R-N 5M,M12,Flush,2.5 mm,2-wire,NC,Cable,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D2-T-N 2M,M12,Flush,2.5 mm,2-wire,NC,Cable,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D2-T-N 5M,M12,Flush,2.5 mm,2-wire,NC,Cable,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D2-TR-N 2M,M12,Flush,2.5 mm,2-wire,NC,Cable,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X2R5D2-TR-N 5M,M12,Flush,2.5 mm,2-wire,NC,Cable,"Brass, nickel plated",,47 mm,32.9 mm,IP67/IP67G/IP69K
+E2E-X30MB1TL18 2M,M18,Non-flush,30 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X30MB1TL18-M1,M18,Non-flush,30 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),75 mm,47 mm,IP67/IP69K
+E2E-X30MB1TL18-M1TJ 0.3M,M18,Non-flush,30 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X30MB1TL18-R 2M,M18,Non-flush,30 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X30MB1TL30 2M,M30,Non-flush,30 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X30MB1TL30 5M,M30,Non-flush,30 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X30MB1TL30-M1,M30,Non-flush,30 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),80 mm,50 mm,IP67/IP69K
+E2E-X30MB1TL30-M1TJ 0.3M,M30,Non-flush,30 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X30MB1TL30-R 2M,M30,Non-flush,30 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X30MB2L18 2M,M18,Non-flush,30 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X30MB2L18-M1,M18,Non-flush,30 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,47 mm,IP67/IP69K
+E2E-X30MB2L30 2M,M30,Non-flush,30 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X30MB2L30 5M,M30,Non-flush,30 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X30MB2L30-M1,M30,Non-flush,30 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,50 mm,IP67/IP69K
+E2E-X30MB3DL30 2M,M30,Non-flush,30 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X30MB3DL30-M1,M30,Non-flush,30 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),80 mm,50 mm,IP67/IP69K
+E2E-X30MC1L18 2M,M18,Non-flush,30 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X30MC1L18-M1,M18,Non-flush,30 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,47 mm,IP67/IP69K
+E2E-X30MC1L30 2M,M30,Non-flush,30 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X30MC1L30 5M,M30,Non-flush,30 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X30MC1L30-M1,M30,Non-flush,30 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,50 mm,IP67/IP69K
+E2E-X30MC2L18 2M,M18,Non-flush,30 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,47 mm,IP67/IP67G/IP69K
+E2E-X30MC2L18-M1,M18,Non-flush,30 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,47 mm,IP67/IP69K
+E2E-X30MC2L30 2M,M30,Non-flush,30 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X30MC2L30 5M,M30,Non-flush,30 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X30MC2L30-M1,M30,Non-flush,30 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,50 mm,IP67/IP69K
+E2E-X30MC3L30 2M,M30,Non-flush,30 mm,NPN,NO + NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X30MC3L30-M1,M30,Non-flush,30 mm,NPN,NO + NC,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,50 mm,IP67/IP69K
+E2E-X3B1T8 2M,M8,Quasi-flush,3 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3B1T8 5M,M8,Quasi-flush,3 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3B1T8-M1,M8,Quasi-flush,3 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),43 mm,21 mm,IP67/IP69K
+E2E-X3B1T8-M1TJ 0.3M,M8,Quasi-flush,3 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3B1T8-M3,M8,Quasi-flush,3 mm,"IO-Link, PNP",NO,Connector M8 - 4 pin,"Brass, nickel plated",COM3 (230.4 kbps),39 mm,21 mm,IP67/IP69K
+E2E-X3B1T8-M5,M8,Quasi-flush,3 mm,"IO-Link, PNP",NO,Connector M8 - 3 pin,"Brass, nickel plated",COM3 (230.4 kbps),39 mm,21 mm,IP67/IP69K
+E2E-X3B1T8-R 2M,M8,Quasi-flush,3 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3B1TL8 2M,M8,Quasi-flush,3 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.8 mm,35 mm,IP67/IP67G/IP69K
+E2E-X3B1TL8-M1,M8,Quasi-flush,3 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),53 mm,35 mm,IP67/IP69K
+E2E-X3B1TL8-M1TJ 0.3M,M8,Quasi-flush,3 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),47.8 mm,35 mm,IP67/IP67G/IP69K
+E2E-X3B1TL8-M3,M8,Quasi-flush,3 mm,"IO-Link, PNP",NO,Connector M8 - 4 pin,"Brass, nickel plated",COM3 (230.4 kbps),49 mm,35 mm,IP67/IP69K
+E2E-X3B1TL8-M5,M8,Quasi-flush,3 mm,"IO-Link, PNP",NO,Connector M8 - 3 pin,"Brass, nickel plated",COM3 (230.4 kbps),49 mm,35 mm,IP67/IP69K
+E2E-X3B28 2M,M8,Quasi-flush,3 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3B28-M1,M8,Quasi-flush,3 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,43 mm,21 mm,IP67/IP69K
+E2E-X3B28-M3,M8,Quasi-flush,3 mm,PNP,NC,Connector M8 - 4 pin,"Brass, nickel plated",Not Applicable,39 mm,21 mm,IP67/IP69K
+E2E-X3B28-M5,M8,Quasi-flush,3 mm,PNP,NC,Connector M8 - 3 pin,"Brass, nickel plated",Not Applicable,39 mm,21 mm,IP67/IP69K
+E2E-X3B2L8 2M,M8,Quasi-flush,3 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,47.8 mm,35 mm,IP67/IP67G/IP69K
+E2E-X3B2L8-M1,M8,Quasi-flush,3 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,35 mm,IP67/IP69K
+E2E-X3B2L8-M3,M8,Quasi-flush,3 mm,PNP,NC,Connector M8 - 4 pin,"Brass, nickel plated",Not Applicable,49 mm,35 mm,IP67/IP69K
+E2E-X3B2L8-M5,M8,Quasi-flush,3 mm,PNP,NC,Connector M8 - 3 pin,"Brass, nickel plated",Not Applicable,49 mm,35 mm,IP67/IP69K
+E2E-X3C18 2M,M8,Quasi-flush,3 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3C18-M1,M8,Quasi-flush,3 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,43 mm,21 mm,IP67/IP69K
+E2E-X3C18-M5,M8,Quasi-flush,3 mm,NPN,NO,Connector M8 - 3 pin,"Brass, nickel plated",Not Applicable,39 mm,21 mm,IP67/IP69K
+E2E-X3C28 2M,M8,Quasi-flush,3 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3C28-M1,M8,Quasi-flush,3 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,43 mm,21 mm,IP67/IP69K
+E2E-X3C28-M5,M8,Quasi-flush,3 mm,NPN,NC,Connector M8 - 3 pin,"Brass, nickel plated",Not Applicable,39 mm,21 mm,IP67/IP69K
+E2E-X3D18 2M,M8,Quasi-flush,3 mm,2-wire,NO,Cable,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D18 5M,M8,Quasi-flush,3 mm,2-wire,NO,Cable,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D18-M1TGJ 0.3M,M8,Quasi-flush,3 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D18-M1TGJ-T 0.3M,M8,Quasi-flush,3 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D18-R 2M,M8,Quasi-flush,3 mm,2-wire,NO,Cable,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D18-R 5M,M8,Quasi-flush,3 mm,2-wire,NO,Cable,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D18-T 2M,M8,Quasi-flush,3 mm,2-wire,NO,Cable,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D18-T 5M,M8,Quasi-flush,3 mm,2-wire,NO,Cable,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D18-TR 2M,M8,Quasi-flush,3 mm,2-wire,NO,Cable,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D18-TR 5M,M8,Quasi-flush,3 mm,2-wire,NO,Cable,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D28 2M,M8,Quasi-flush,3 mm,2-wire,NC,Cable,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D28 5M,M8,Quasi-flush,3 mm,2-wire,NC,Cable,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D28-M1TGJ 0.3M,M8,Quasi-flush,3 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D28-M1TGJ-T 0.3M,M8,Quasi-flush,3 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D28-R 2M,M8,Quasi-flush,3 mm,2-wire,NC,Cable,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D28-R 5M,M8,Quasi-flush,3 mm,2-wire,NC,Cable,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D28-T 2M,M8,Quasi-flush,3 mm,2-wire,NC,Cable,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D28-T 5M,M8,Quasi-flush,3 mm,2-wire,NC,Cable,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D28-TR 2M,M8,Quasi-flush,3 mm,2-wire,NC,Cable,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X3D28-TR 5M,M8,Quasi-flush,3 mm,2-wire,NC,Cable,"Brass, nickel plated",,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X40MB1TL30 2M,M30,Non-flush,40 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MB1TL30-M1,M30,Non-flush,40 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),80 mm,50 mm,IP67/IP69K
+E2E-X40MB1TL30-M1TJ 0.3M,M30,Non-flush,40 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MB1TL30-R 2M,M30,Non-flush,40 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MB2L30 2M,M30,Non-flush,40 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MB2L30-M1,M30,Non-flush,40 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,80 mm,50 mm,IP67/IP69K
+E2E-X40MB3DL30-M1,M30,Non-flush,40 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),80 mm,50 mm,IP67/IP69K
+E2E-X40MD1L30 2M,M30,Non-flush,40 mm,2-wire,NO,Cable,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD1L30 5M,M30,Non-flush,40 mm,2-wire,NO,Cable,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD1L30-M1TGJ 0.3M,M30,Non-flush,40 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD1L30-M1TGJ-T 0.3M,M30,Non-flush,40 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD1L30-R 2M,M30,Non-flush,40 mm,2-wire,NO,Cable,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD1L30-R 5M,M30,Non-flush,40 mm,2-wire,NO,Cable,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD1L30-T 2M,M30,Non-flush,40 mm,2-wire,NO,Cable,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD1L30-T 5M,M30,Non-flush,40 mm,2-wire,NO,Cable,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD1L30-TR 2M,M30,Non-flush,40 mm,2-wire,NO,Cable,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD1L30-TR 5M,M30,Non-flush,40 mm,2-wire,NO,Cable,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD2L30 2M,M30,Non-flush,40 mm,2-wire,NC,Cable,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD2L30 5M,M30,Non-flush,40 mm,2-wire,NC,Cable,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD2L30-M1TGJ 0.3M,M30,Non-flush,40 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD2L30-M1TGJ-T 0.3M,M30,Non-flush,40 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD2L30-R 2M,M30,Non-flush,40 mm,2-wire,NC,Cable,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD2L30-R 5M,M30,Non-flush,40 mm,2-wire,NC,Cable,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD2L30-T 2M,M30,Non-flush,40 mm,2-wire,NC,Cable,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD2L30-T 5M,M30,Non-flush,40 mm,2-wire,NC,Cable,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD2L30-TR 2M,M30,Non-flush,40 mm,2-wire,NC,Cable,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X40MD2L30-TR 5M,M30,Non-flush,40 mm,2-wire,NC,Cable,"Brass, nickel plated",,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X4B1T12 10M,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4B1T12 15M,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4B1T12 2M,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4B1T12 5M,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4B1T12-M1,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),48 mm,29 mm,IP67/IP69K
+E2E-X4B1T12-M1TJ 0.3M,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4B1T12-R 2M,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4B1T8 2M,M8,Quasi-flush,4 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X4B1T8-M1,M8,Quasi-flush,4 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),43 mm,21 mm,IP67/IP69K
+E2E-X4B1T8-M1TJ 0.3M,M8,Quasi-flush,4 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X4B1T8-M3,M8,Quasi-flush,4 mm,"IO-Link, PNP",NO,Connector M8 - 4 pin,"Brass, nickel plated",COM3 (230.4 kbps),39 mm,21 mm,IP67/IP69K
+E2E-X4B1T8-M5,M8,Quasi-flush,4 mm,"IO-Link, PNP",NO,Connector M8 - 3 pin,"Brass, nickel plated",COM3 (230.4 kbps),39 mm,21 mm,IP67/IP69K
+E2E-X4B1T8-R 2M,M8,Quasi-flush,4 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X4B1TL12 2M,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X4B1TL12 5M,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X4B1TL12-M1,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),70 mm,54 mm,IP67/IP69K
+E2E-X4B1TL12-M1TJ 0.3M,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X4B1TL8 2M,M8,Quasi-flush,4 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.8 mm,35 mm,IP67/IP67G/IP69K
+E2E-X4B1TL8-M1,M8,Quasi-flush,4 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),53 mm,35 mm,IP67/IP69K
+E2E-X4B1TL8-M1TJ 0.3M,M8,Quasi-flush,4 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),47.8 mm,35 mm,IP67/IP67G/IP69K
+E2E-X4B1TL8-M3,M8,Quasi-flush,4 mm,"IO-Link, PNP",NO,Connector M8 - 4 pin,"Brass, nickel plated",COM3 (230.4 kbps),49 mm,35 mm,IP67/IP69K
+E2E-X4B1TL8-M5,M8,Quasi-flush,4 mm,"IO-Link, PNP",NO,Connector M8 - 3 pin,"Brass, nickel plated",COM3 (230.4 kbps),49 mm,35 mm,IP67/IP69K
+E2E-X4B212 10M,M12,Quasi-flush,4 mm,PNP,NC,Cable,"Brass, nickel plated",,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4B212 2M,M12,Quasi-flush,4 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4B212 5M,M12,Quasi-flush,4 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4B212-M1,M12,Quasi-flush,4 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,29 mm,IP67/IP69K
+E2E-X4B28 2M,M8,Quasi-flush,4 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X4B28-M1,M8,Quasi-flush,4 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,43 mm,21 mm,IP67/IP69K
+E2E-X4B28-M3,M8,Quasi-flush,4 mm,PNP,NC,Connector M8 - 4 pin,"Brass, nickel plated",Not Applicable,39 mm,21 mm,IP67/IP69K
+E2E-X4B28-M5,M8,Quasi-flush,4 mm,PNP,NC,Connector M8 - 3 pin,"Brass, nickel plated",Not Applicable,39 mm,21 mm,IP67/IP69K
+E2E-X4B2L12 2M,M12,Quasi-flush,4 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X4B2L12 5M,M12,Quasi-flush,4 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X4B2L12-M1,M12,Quasi-flush,4 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,54 mm,IP67/IP69K
+E2E-X4B2L12-M1TJ 0.3M,M12,Quasi-flush,4 mm,PNP,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",Not Applicable,69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X4B2L8 2M,M8,Quasi-flush,4 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,47.8 mm,35 mm,IP67/IP67G/IP69K
+E2E-X4B2L8-M1,M8,Quasi-flush,4 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,35 mm,IP67/IP69K
+E2E-X4B2L8-M3,M8,Quasi-flush,4 mm,PNP,NC,Connector M8 - 4 pin,"Brass, nickel plated",Not Applicable,49 mm,35 mm,IP67/IP69K
+E2E-X4B2L8-M5,M8,Quasi-flush,4 mm,PNP,NC,Connector M8 - 3 pin,"Brass, nickel plated",Not Applicable,49 mm,35 mm,IP67/IP69K
+E2E-X4B3D12 2M,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4B3D12 5M,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4B3D12-M1,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),48 mm,29 mm,IP67/IP69K
+E2E-X4B3D12-M1TJ 0.3M,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO + NC,M12 pigtail Smartclick connector,"Brass, nickel plated",COM2 (38.4 kbps),47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4B3DL12 2M,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X4B3DL12 5M,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X4B3DL12-M1,M12,Quasi-flush,4 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),70 mm,54 mm,IP67/IP69K
+E2E-X4C112 10M,M12,Quasi-flush,4 mm,NPN,NO,Cable,"Brass, nickel plated",,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4C112 2M,M12,Quasi-flush,4 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4C112 5M,M12,Quasi-flush,4 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4C112-M1,M12,Quasi-flush,4 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,29 mm,IP67/IP69K
+E2E-X4C112-M1TJ 0.3M,M12,Quasi-flush,4 mm,NPN,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4C18 2M,M8,Quasi-flush,4 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X4C18-M1,M8,Quasi-flush,4 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,43 mm,21 mm,IP67/IP69K
+E2E-X4C18-M1TJ 0.3M,M8,Quasi-flush,4 mm,NPN,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",Not Applicable,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X4C18-M3,M8,Quasi-flush,4 mm,NPN,NO,Connector M8 - 4 pin,"Brass, nickel plated",Not Applicable,39 mm,21 mm,IP67/IP69K
+E2E-X4C18-M5,M8,Quasi-flush,4 mm,NPN,NO,Connector M8 - 3 pin,"Brass, nickel plated",Not Applicable,39 mm,21 mm,IP67/IP69K
+E2E-X4C1L12 2M,M12,Quasi-flush,4 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X4C1L12 5M,M12,Quasi-flush,4 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X4C1L12-M1,M12,Quasi-flush,4 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,54 mm,IP67/IP69K
+E2E-X4C1L8 2M,M8,Quasi-flush,4 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,47.8 mm,35 mm,IP67/IP67G/IP69K
+E2E-X4C1L8-M1,M8,Quasi-flush,4 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,35 mm,IP67/IP69K
+E2E-X4C1L8-M5,M8,Quasi-flush,4 mm,NPN,NO,Connector M8 - 3 pin,"Brass, nickel plated",Not Applicable,49 mm,35 mm,IP67/IP69K
+E2E-X4C212 2M,M12,Quasi-flush,4 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4C212 5M,M12,Quasi-flush,4 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4C212-M1,M12,Quasi-flush,4 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,29 mm,IP67/IP69K
+E2E-X4C212-M1TJ 0.3M,M12,Flush,4 mm,NPN,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4C28 2M,M8,Flush,4 mm,NPN,NC,Cable,Stainless steel,Not Applicable,37.8 mm,21 mm,IP67/IP67G/IP69K
+E2E-X4C28-M1,M8,Quasi-flush,4 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,43 mm,21 mm,IP67/IP69K
+E2E-X4C28-M3,M8,Quasi-flush,4 mm,NPN,NC,Connector M8 - 4 pin,"Brass, nickel plated",Not Applicable,39 mm,21 mm,IP67/IP69K
+E2E-X4C28-M5,M8,Quasi-flush,4 mm,NPN,NC,Connector M8 - 3 pin,"Brass, nickel plated",Not Applicable,39 mm,21 mm,IP67/IP69K
+E2E-X4C2L12 2M,M12,Quasi-flush,4 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X4C2L12 5M,M12,Quasi-flush,4 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X4C2L12-M1,M12,Quasi-flush,4 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,54 mm,IP67/IP69K
+E2E-X4C2L8 2M,M8,Flush,4 mm,NPN,NC,Cable,Stainless steel,Not Applicable,47.8 mm,35 mm,IP67/IP67G/IP69K
+E2E-X4C2L8-M1,M8,Flush,4 mm,NPN,NC,Connector M12,High-grade stainless steel,Not Applicable,43 mm,21 mm,IP67/IP69K
+E2E-X4C312 2M,M12,Quasi-flush,4 mm,NPN,NO + NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,29 mm,IP67/IP67G/IP69K
+E2E-X4C312-M1,M12,Quasi-flush,4 mm,NPN,NO + NC,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,29 mm,IP67/IP69K
+E2E-X4C3L12 2M,M12,Quasi-flush,4 mm,NPN,NO + NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,55 mm,IP67/IP67G/IP69K
+E2E-X4C3L12-M1,M12,Quasi-flush,4 mm,NPN,NO + NC,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,54 mm,IP67/IP69K
+E2E-X4MB1T8 2M,M8,Non-flush,4 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X4MB1T8 5M,M8,Non-flush,4 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X4MB1T8-M1,M8,Non-flush,4 mm,"IO-Link, PNP",NO,Connector M12,Stainless steel,COM3 (230.4 kbps),43 mm,20 mm,IP67/IP69K
+E2E-X4MB1T8-M1TJ 0.3M,M8,Non-flush,4 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,Stainless steel,COM3 (230.4 kbps),37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X4MB1T8-M3,M8,Non-flush,4 mm,"IO-Link, PNP",NO,Connector M8 - 4 pin,Stainless steel,COM3 (230.4 kbps),39 mm,20 mm,IP67/IP69K
+E2E-X4MB1T8-M5,M8,Non-flush,4 mm,"IO-Link, PNP",NO,Connector M8 - 3 pin,Stainless steel,COM3 (230.4 kbps),39 mm,20 mm,IP67/IP69K
+E2E-X4MB1T8-R 2M,M8,Non-flush,4 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X4MB1TL8 2M,M8,Non-flush,4 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X4MB1TL8 5M,M8,Non-flush,4 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X4MB1TL8-M1,M8,Non-flush,4 mm,"IO-Link, PNP",NO,Connector M12,Stainless steel,COM3 (230.4 kbps),53 mm,30 mm,IP67/IP69K
+E2E-X4MB1TL8-M1TJ 0.3M,M8,Non-flush,4 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,Stainless steel,COM3 (230.4 kbps),47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X4MB1TL8-M3,M8,Non-flush,4 mm,"IO-Link, PNP",NO,Connector M8 - 4 pin,Stainless steel,COM3 (230.4 kbps),49 mm,30 mm,IP67/IP69K
+E2E-X4MB1TL8-M5,M8,Non-flush,4 mm,"IO-Link, PNP",NO,Connector M8 - 3 pin,Stainless steel,COM3 (230.4 kbps),49 mm,30 mm,IP67/IP69K
+E2E-X4MB28 2M,M8,Non-flush,4 mm,PNP,NC,Cable,Stainless steel,Not Applicable,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X4MB28 5M,M8,Non-flush,4 mm,PNP,NC,Cable,Stainless steel,Not Applicable,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X4MB28-M1,M8,Non-flush,4 mm,PNP,NC,Connector M12,Stainless steel,Not Applicable,43 mm,20 mm,IP67/IP69K
+E2E-X4MB28-M3,M8,Non-flush,4 mm,PNP,NC,Connector M8 - 4 pin,Stainless steel,Not Applicable,39 mm,20 mm,IP67/IP69K
+E2E-X4MB28-M5,M8,Non-flush,4 mm,PNP,NC,Connector M8 - 3 pin,Stainless steel,Not Applicable,39 mm,20 mm,IP67/IP69K
+E2E-X4MB2L8 2M,M8,Non-flush,4 mm,PNP,NC,Cable,Stainless steel,Not Applicable,47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X4MB2L8 5M,M8,Non-flush,4 mm,PNP,NC,Cable,Stainless steel,Not Applicable,47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X4MB2L8-M1,M8,Non-flush,4 mm,PNP,NC,Connector M12,Stainless steel,Not Applicable,53 mm,30 mm,IP67/IP69K
+E2E-X4MB2L8-M3,M8,Non-flush,4 mm,PNP,NC,Connector M8 - 4 pin,Stainless steel,Not Applicable,49 mm,30 mm,IP67/IP69K
+E2E-X4MB2L8-M5,M8,Non-flush,4 mm,PNP,NC,Connector M8 - 3 pin,Stainless steel,Not Applicable,49 mm,30 mm,IP67/IP69K
+E2E-X4MB3DL8-M1,M8,Non-flush,4 mm,"IO-Link, PNP",NO + NC,Connector M12,Stainless steel,COM2 (38.4 kbps),53 mm,30 mm,IP67/IP69K
+E2E-X4MC18 10M,M8,Non-flush,4 mm,NPN,NO,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X4MC18 2M,M8,Non-flush,4 mm,NPN,NO,Cable,Stainless steel,Not Applicable,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X4MC18 5M,M8,Non-flush,4 mm,NPN,NO,Cable,Stainless steel,Not Applicable,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X4MC18-M1,M8,Non-flush,4 mm,NPN,NO,Connector M12,Stainless steel,Not Applicable,43 mm,20 mm,IP67/IP69K
+E2E-X4MC18-M3,M8,Non-flush,4 mm,NPN,NO,Connector M8 - 4 pin,Stainless steel,Not Applicable,39 mm,20 mm,IP67/IP69K
+E2E-X4MC18-M5,M8,Non-flush,4 mm,NPN,NO,Connector M8 - 3 pin,Stainless steel,Not Applicable,39 mm,20 mm,IP67/IP69K
+E2E-X4MC1L8 2M,M8,Non-flush,4 mm,NPN,NO,Cable,Stainless steel,Not Applicable,47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X4MC1L8 5M,M8,Non-flush,4 mm,NPN,NO,Cable,Stainless steel,Not Applicable,47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X4MC1L8-M1,M8,Non-flush,4 mm,NPN,NO,Connector M12,Stainless steel,Not Applicable,53 mm,30 mm,IP67/IP69K
+E2E-X4MC1L8-M5,M8,Non-flush,4 mm,NPN,NO,Connector M8 - 3 pin,Stainless steel,Not Applicable,49 mm,30 mm,IP67/IP69K
+E2E-X4MC28 2M,M8,Non-flush,4 mm,NPN,NC,Cable,Stainless steel,Not Applicable,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X4MC28 5M,M8,Non-flush,4 mm,NPN,NC,Cable,Stainless steel,Not Applicable,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X4MC28-M1,M8,Non-flush,4 mm,NPN,NC,Connector M12,Stainless steel,Not Applicable,43 mm,20 mm,IP67/IP69K
+E2E-X4MC28-M3,M8,Non-flush,4 mm,NPN,NC,Connector M8 - 4 pin,Stainless steel,Not Applicable,39 mm,20 mm,IP67/IP69K
+E2E-X4MC28-M5,M8,Non-flush,4 mm,NPN,NC,Connector M8 - 3 pin,Stainless steel,Not Applicable,39 mm,20 mm,IP67/IP69K
+E2E-X4MC2L8 2M,M8,Non-flush,4 mm,NPN,NC,Cable,Stainless steel,Not Applicable,47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X4MC2L8 5M,M8,Non-flush,4 mm,NPN,NC,Cable,Stainless steel,Not Applicable,47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X4MC2L8-M1,M8,Non-flush,4 mm,NPN,NC,Connector M12,Stainless steel,Not Applicable,53 mm,30 mm,IP67/IP69K
+E2E-X4MC2L8-M5,M8,Non-flush,4 mm,NPN,NC,Connector M8 - 3 pin,Stainless steel,Not Applicable,49 mm,30 mm,IP67/IP69K
+E2E-X50MB1TL30 2M,M30,Non-flush,50 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),97.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X50MB1TL30-M1,M30,Non-flush,50 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),95 mm,65 mm,IP67/IP69K
+E2E-X50MB1TL30-M1TJ 0.3M,M30,Non-flush,50 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),97.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X50MB1TL30-R 2M,M30,Non-flush,50 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),97.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X50MB2L30 2M,M30,Non-flush,50 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,97.3 mm,65 mm,IP67/IP67G/IP69K
+E2E-X50MB2L30-M1,M30,Non-flush,50 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,95 mm,65 mm,IP67/IP69K
+E2E-X50MC1L30 2M,M30,Non-flush,50 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X50MC1L30-M1,M30,Non-flush,50 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,95 mm,65 mm,IP67/IP69K
+E2E-X50MC2L30 2M,M30,Non-flush,50 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,82.3 mm,50 mm,IP67/IP67G/IP69K
+E2E-X50MC2L30-M1,M30,Non-flush,50 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,95 mm,65 mm,IP67/IP69K
+E2E-X5B1T18 2M,M18,Flush,5 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X5B1T18 5M,M18,Flush,5 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X5B1T18-M1,M18,Flush,5 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),53 mm,34 mm,IP67/IP69K
+E2E-X5B1T18-M1TJ 0.3M,M18,Flush,5 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X5B1T18-R 2M,M18,Flush,5 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X5B1TL18 2M,M18,Flush,5 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X5B1TL18 5M,M18,Flush,5 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X5B1TL18-M1,M18,Flush,5 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),75 mm,60 mm,IP67/IP69K
+E2E-X5B218 2M,M18,Flush,5 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X5B218 5M,M18,Flush,5 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X5B218-M1,M18,Flush,5 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,34 mm,IP67/IP69K
+E2E-X5B218-M1TJ 0.3M,M18,Flush,5 mm,PNP,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",Not Applicable,55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X5B2L18 2M,M18,Flush,5 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X5B2L18 5M,M18,Flush,5 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X5B2L18-M1,M18,Flush,5 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,60 mm,IP67/IP69K
+E2E-X5B3D18-M1,M18,Flush,5 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),53 mm,34 mm,IP67/IP69K
+E2E-X5B3DL18 2M,M18,Flush,5 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X5C118 2M,M18,Flush,5 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X5C118 5M,M18,Flush,5 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X5C118-M1,M18,Flush,5 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,34 mm,IP67/IP69K
+E2E-X5C118-R 2M,M18,Flush,5 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X5C1L18 2M,M18,Flush,5 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X5C1L18 5M,M18,Flush,5 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X5C1L18-M1,M18,Flush,5 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,60 mm,IP67/IP69K
+E2E-X5C218 2M,M18,Flush,5 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X5C218 5M,M18,Flush,5 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X5C218-M1,M18,Flush,5 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,34 mm,IP67/IP69K
+E2E-X5C2L18 2M,M18,Flush,5 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X5C2L18-M1,M18,Flush,5 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,60 mm,IP67/IP69K
+E2E-X5C318-M1,M18,Flush,5 mm,NPN,NO + NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,34 mm,IP67/IP69K
+E2E-X5D1-M1TGJ 0.3M,M18,Flush,5 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D1-M1TGJ-T 0.3M,M18,Flush,5 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D1-N 2M,M18,Flush,5 mm,2-wire,NO,Cable,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D1-N 5M,M18,Flush,5 mm,2-wire,NO,Cable,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D1-R-N 2M,M18,Flush,5 mm,2-wire,NO,Cable,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D1-R-N 5M,M18,Flush,5 mm,2-wire,NO,Cable,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D1-T-N 2M,M18,Flush,5 mm,2-wire,NO,Cable,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D1-T-N 5M,M18,Flush,5 mm,2-wire,NO,Cable,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D1-TR-N 2M,M18,Flush,5 mm,2-wire,NO,Cable,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D1-TR-N 5M,M18,Flush,5 mm,2-wire,NO,Cable,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D2-M1TGJ 0.3M,M18,Flush,5 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D2-M1TGJ-T 0.3M,M18,Flush,5 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D2-N 2M,M18,Flush,5 mm,2-wire,NC,Cable,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D2-N 5M,M18,Flush,5 mm,2-wire,NC,Cable,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D2-R-N 2M,M18,Flush,5 mm,2-wire,NC,Cable,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D2-R-N 5M,M18,Flush,5 mm,2-wire,NC,Cable,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D2-T-N 2M,M18,Flush,5 mm,2-wire,NC,Cable,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D2-T-N 5M,M18,Flush,5 mm,2-wire,NC,Cable,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D2-TR-N 2M,M18,Flush,5 mm,2-wire,NC,Cable,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5D2-TR-N 5M,M18,Flush,5 mm,2-wire,NC,Cable,"Brass, nickel plated",,54.3 mm,37 mm,IP67/IP67G/IP69K
+E2E-X5MB1T12 2M,M12,Non-flush,5 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X5MB1T12 5M,M12,Non-flush,5 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X5MB1T12-M1,M12,Non-flush,5 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),48 mm,26 mm,IP67/IP69K
+E2E-X5MB1T12-M1TJ 0.3M,M12,Non-flush,5 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X5MB1T12-R 2M,M12,Non-flush,5 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X5MB1TL12 2M,M12,Non-flush,5 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X5MB1TL12 5M,M12,Non-flush,5 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X5MB1TL12-M1,M12,Non-flush,5 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),70 mm,48 mm,IP67/IP69K
+E2E-X5MB212 2M,M12,Non-flush,5 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X5MB212 5M,M12,Non-flush,5 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X5MB212-M1,M12,Non-flush,5 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,26 mm,IP67/IP69K
+E2E-X5MB2L12 2M,M12,Non-flush,5 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X5MB2L12 5M,M12,Non-flush,5 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X5MB2L12-M1,M12,Non-flush,5 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,48 mm,IP67/IP69K
+E2E-X5MB3D12-M1,M12,Non-flush,5 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),48 mm,26 mm,IP67/IP69K
+E2E-X5MC112 2M,M12,Non-flush,5 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X5MC112 5M,M12,Non-flush,5 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X5MC112-M1,M12,Non-flush,5 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,19 mm,IP67/IP69K
+E2E-X5MC112-R 2M,M12,Non-flush,5 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X5MC1L12 2M,M12,Non-flush,5 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X5MC1L12 5M,M12,Non-flush,5 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X5MC1L12-M1,M12,Non-flush,5 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,48 mm,IP67/IP69K
+E2E-X5MC212 2M,M12,Non-flush,5 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X5MC212 5M,M12,Non-flush,5 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X5MC212-M1,M12,Non-flush,5 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,26 mm,IP67/IP69K
+E2E-X5MC2L12 2M,M12,Non-flush,5 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X5MC2L12-M1,M12,Non-flush,5 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,48 mm,IP67/IP69K
+E2E-X5MC312 2M,M12,Non-flush,5 mm,NPN,NO + NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X6B1T12 2M,M12,Quasi-flush,6 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X6B1T12-M1,M12,Quasi-flush,6 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),48 mm,28 mm,IP67/IP69K
+E2E-X6B1T12-M1TJ 0.3M,M12,Quasi-flush,6 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X6B1T12-M1TJR 0.3M,M12,Quasi-flush,6 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X6B1T12-R 2M,M12,Quasi-flush,6 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X6B1TL12 2M,M12,Quasi-flush,6 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,54 mm,IP67/IP67G/IP69K
+E2E-X6B1TL12-M1,M12,Quasi-flush,6 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),70 mm,54 mm,IP67/IP69K
+E2E-X6B1TL12-M1TJ 0.3M,M12,Quasi-flush,6 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,54 mm,IP67/IP67G/IP69K
+E2E-X6B212 2M,M12,Quasi-flush,6 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X6B212-M1,M12,Quasi-flush,6 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,28 mm,IP67/IP69K
+E2E-X6B212-M1TJ 0.3M,M12,Quasi-flush,6 mm,PNP,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",Not Applicable,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X6B2L12 2M,M12,Quasi-flush,6 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,54 mm,IP67/IP67G/IP69K
+E2E-X6B2L12-M1,M12,Quasi-flush,6 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,54 mm,IP67/IP69K
+E2E-X6B3D12 2M,M12,Quasi-flush,6 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X6B3D12-M1,M12,Quasi-flush,6 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),48 mm,28 mm,IP67/IP69K
+E2E-X6C112 2M,M12,Quasi-flush,6 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X6C112-M1,M12,Quasi-flush,6 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,28 mm,IP67/IP69K
+E2E-X6C212 2M,M12,Quasi-flush,6 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X6C212-M1,M12,Quasi-flush,6 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,28 mm,IP67/IP69K
+E2E-X6MB1T8 2M,M8,Non-flush,6 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MB1T8 5M,M8,Non-flush,6 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MB1T8-M1,M8,Non-flush,6 mm,"IO-Link, PNP",NO,Connector M12,Stainless steel,COM3 (230.4 kbps),43 mm,20 mm,IP67/IP69K
+E2E-X6MB1T8-M1TJ 0.3M,M8,Non-flush,6 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,Stainless steel,COM3 (230.4 kbps),37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MB1T8-M3,M8,Non-flush,6 mm,"IO-Link, PNP",NO,Connector M8 - 4 pin,Stainless steel,COM3 (230.4 kbps),39 mm,20 mm,IP67/IP69K
+E2E-X6MB1T8-M5,M8,Non-flush,6 mm,"IO-Link, PNP",NO,Connector M8 - 3 pin,Stainless steel,COM3 (230.4 kbps),39 mm,20 mm,IP67/IP69K
+E2E-X6MB1T8-R 2M,M8,Non-flush,6 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MB1TL8 2M,M8,Non-flush,6 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X6MB1TL8 5M,M8,Non-flush,6 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X6MB1TL8-M1,M8,Non-flush,6 mm,"IO-Link, PNP",NO,Connector M12,Stainless steel,COM3 (230.4 kbps),53 mm,30 mm,IP67/IP69K
+E2E-X6MB1TL8-M1TJ 0.3M,M8,Non-flush,6 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,Stainless steel,COM3 (230.4 kbps),47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X6MB1TL8-M3,M8,Non-flush,6 mm,"IO-Link, PNP",NO,Connector M8 - 4 pin,Stainless steel,COM3 (230.4 kbps),49 mm,30 mm,IP67/IP69K
+E2E-X6MB1TL8-M5,M8,Non-flush,6 mm,"IO-Link, PNP",NO,Connector M8 - 3 pin,Stainless steel,COM3 (230.4 kbps),49 mm,30 mm,IP67/IP69K
+E2E-X6MB28 2M,M8,Non-flush,6 mm,PNP,NC,Cable,Stainless steel,Not Applicable,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MB28-M1,M8,Non-flush,6 mm,PNP,NC,Connector M12,Stainless steel,Not Applicable,43 mm,20 mm,IP67/IP69K
+E2E-X6MB28-M5,M8,Non-flush,6 mm,PNP,NC,Connector M8 - 3 pin,Stainless steel,Not Applicable,39 mm,20 mm,IP67/IP69K
+E2E-X6MB2L8 2M,M8,Non-flush,6 mm,PNP,NC,Cable,Stainless steel,Not Applicable,47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X6MB2L8-M1,M8,Non-flush,6 mm,PNP,NC,Connector M12,Stainless steel,Not Applicable,53 mm,30 mm,IP67/IP69K
+E2E-X6MB2L8-M5,M8,Non-flush,6 mm,PNP,NC,Connector M8 - 3 pin,Stainless steel,Not Applicable,49 mm,30 mm,IP67/IP69K
+E2E-X6MC18-M1,M8,Non-flush,6 mm,NPN,NO,Connector M12,High-grade stainless steel,Not Applicable,43 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD18 2M,M8,Non-flush,6 mm,2-wire,NO,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD18 5M,M8,Non-flush,6 mm,2-wire,NO,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD18-M1TGJ 0.3M,M8,Non-flush,6 mm,2-wire,NO,M12 pigtail Smartclick connector,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD18-M1TGJ-T 0.3M,M8,Non-flush,6 mm,2-wire,NO,M12 pigtail Smartclick connector,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD18-R 2M,M8,Non-flush,6 mm,2-wire,NO,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD18-R 5M,M8,Non-flush,6 mm,2-wire,NO,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD18-T 2M,M8,Non-flush,6 mm,2-wire,NO,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD18-T 5M,M8,Non-flush,6 mm,2-wire,NO,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD18-TR 2M,M8,Non-flush,6 mm,2-wire,NO,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD18-TR 5M,M8,Non-flush,6 mm,2-wire,NO,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD28 2M,M8,Non-flush,6 mm,2-wire,NC,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD28 5M,M8,Non-flush,6 mm,2-wire,NC,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD28-M1TGJ 0.3M,M8,Non-flush,6 mm,2-wire,NC,M12 pigtail Smartclick connector,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD28-M1TGJ-T 0.3M,M8,Non-flush,6 mm,2-wire,NC,M12 pigtail Smartclick connector,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD28-R 2M,M8,Non-flush,6 mm,2-wire,NC,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD28-R 5M,M8,Non-flush,6 mm,2-wire,NC,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD28-T 2M,M8,Non-flush,6 mm,2-wire,NC,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD28-T 5M,M8,Non-flush,6 mm,2-wire,NC,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD28-TR 2M,M8,Non-flush,6 mm,2-wire,NC,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X6MD28-TR 5M,M8,Non-flush,6 mm,2-wire,NC,Cable,Stainless steel,,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X7D112 2M,M12,Quasi-flush,7 mm,2-wire,NO,Cable,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D112 5M,M12,Quasi-flush,7 mm,2-wire,NO,Cable,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D112-M1TGJ 0.3M,M12,Quasi-flush,7 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D112-M1TGJ-T 0.3M,M12,Quasi-flush,7 mm,2-wire,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D112-R 2M,M12,Quasi-flush,7 mm,2-wire,NO,Cable,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D112-R 5M,M12,Quasi-flush,7 mm,2-wire,NO,Cable,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D112-T 2M,M12,Quasi-flush,7 mm,2-wire,NO,Cable,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D112-T 5M,M12,Quasi-flush,7 mm,2-wire,NO,Cable,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D112-TR 2M,M12,Quasi-flush,7 mm,2-wire,NO,Cable,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D112-TR 5M,M12,Quasi-flush,7 mm,2-wire,NO,Cable,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D212 2M,M12,Quasi-flush,7 mm,2-wire,NC,Cable,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D212 5M,M12,Quasi-flush,7 mm,2-wire,NC,Cable,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D212-M1TGJ 0.3M,M12,Quasi-flush,7 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D212-M1TGJ-T 0.3M,M12,Quasi-flush,7 mm,2-wire,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D212-R 2M,M12,Quasi-flush,7 mm,2-wire,NC,Cable,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D212-R 5M,M12,Quasi-flush,7 mm,2-wire,NC,Cable,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D212-T 2M,M12,Quasi-flush,7 mm,2-wire,NC,Cable,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D212-T 5M,M12,Quasi-flush,7 mm,2-wire,NC,Cable,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D212-TR 2M,M12,Quasi-flush,7 mm,2-wire,NC,Cable,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X7D212-TR 5M,M12,Quasi-flush,7 mm,2-wire,NC,Cable,"Brass, nickel plated",,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X8B1T18 10M,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X8B1T18 2M,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X8B1T18 5M,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X8B1T18-M1,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),53 mm,34 mm,IP67/IP69K
+E2E-X8B1T18-M1TJ 0.3M,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X8B1T18-R 2M,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X8B1TL18 10M,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X8B1TL18 2M,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X8B1TL18 5M,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X8B1TL18-M1,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),75 mm,60 mm,IP67/IP69K
+E2E-X8B1TL18-M1TJ 0.3M,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X8B218 2M,M18,Quasi-flush,8 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X8B218 5M,M18,Quasi-flush,8 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X8B218-M1,M18,Quasi-flush,8 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,34 mm,IP67/IP69K
+E2E-X8B2L18 2M,M18,Quasi-flush,8 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X8B2L18 5M,M18,Quasi-flush,8 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X8B2L18-M1,M18,Quasi-flush,8 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,60 mm,IP67/IP69K
+E2E-X8B3D18 2M,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X8B3D18 5M,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X8B3D18-M1,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),53 mm,34 mm,IP67/IP69K
+E2E-X8B3D18-M1TJ 0.3M,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO + NC,M12 pigtail Smartclick connector,"Brass, nickel plated",COM2 (38.4 kbps),55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X8B3DL18 2M,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X8B3DL18-M1,M18,Quasi-flush,8 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),75 mm,60 mm,IP67/IP69K
+E2E-X8C118 10M,M18,Quasi-flush,8 mm,NPN,NO,Cable,"Brass, nickel plated",,55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X8C118 2M,M18,Quasi-flush,8 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X8C118 5M,M18,Quasi-flush,8 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X8C118-M1,M18,Quasi-flush,8 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,34 mm,IP67/IP69K
+E2E-X8C1L18 2M,M18,Quasi-flush,8 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X8C1L18 5M,M18,Quasi-flush,8 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X8C1L18-M1,M18,Quasi-flush,8 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,60 mm,IP67/IP69K
+E2E-X8C218 2M,M18,Quasi-flush,8 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X8C218 5M,M18,Quasi-flush,8 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X8C218-M1,M18,Quasi-flush,8 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,34 mm,IP67/IP69K
+E2E-X8C2L18 2M,M18,Quasi-flush,8 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X8C2L18 5M,M18,Quasi-flush,8 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X8C2L18-M1,M18,Quasi-flush,8 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,60 mm,IP67/IP69K
+E2E-X8C318 2M,M18,Quasi-flush,8 mm,NPN,NO + NC,Cable,"Brass, nickel plated",Not Applicable,55.3 mm,34 mm,IP67/IP67G/IP69K
+E2E-X8C318-M1,M18,Quasi-flush,8 mm,NPN,NO + NC,Connector M12,"Brass, nickel plated",Not Applicable,53 mm,34 mm,IP67/IP69K
+E2E-X8C3L18 2M,M18,Quasi-flush,8 mm,NPN,NO + NC,Cable,"Brass, nickel plated",Not Applicable,77.3 mm,60 mm,IP67/IP67G/IP69K
+E2E-X8C3L18-M1,M18,Quasi-flush,8 mm,NPN,NO + NC,Connector M12,"Brass, nickel plated",Not Applicable,75 mm,60 mm,IP67/IP69K
+E2E-X8MB1T12 10M,M12,Non-flush,8 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X8MB1T12 2M,M12,Non-flush,8 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X8MB1T12 5M,M12,Non-flush,8 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X8MB1T12-M1,M12,Non-flush,8 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),48 mm,26 mm,IP67/IP69K
+E2E-X8MB1T12-M1TJ 0.3M,M12,Non-flush,8 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X8MB1T12-R 2M,M12,Non-flush,8 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X8MB1T8 2M,M8,Non-flush,8 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X8MB1T8 5M,M8,Non-flush,8 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X8MB1T8-M1,M8,Non-flush,8 mm,"IO-Link, PNP",NO,Connector M12,Stainless steel,COM3 (230.4 kbps),43 mm,20 mm,IP67/IP69K
+E2E-X8MB1T8-M1TJ 0.3M,M8,Non-flush,8 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,Stainless steel,COM3 (230.4 kbps),37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X8MB1T8-M3,M8,Non-flush,8 mm,"IO-Link, PNP",NO,Connector M8 - 4 pin,Stainless steel,COM3 (230.4 kbps),39 mm,20 mm,IP67/IP69K
+E2E-X8MB1T8-M5,M8,Non-flush,8 mm,"IO-Link, PNP",NO,Connector M8 - 3 pin,Stainless steel,COM3 (230.4 kbps),39 mm,20 mm,IP67/IP69K
+E2E-X8MB1T8-R 2M,M8,Non-flush,8 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X8MB1TL12 2M,M12,Non-flush,8 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X8MB1TL12 5M,M12,Non-flush,8 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X8MB1TL12-M1,M12,Non-flush,8 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),70 mm,48 mm,IP67/IP69K
+E2E-X8MB1TL12-M1TJ 0.3M,M12,Non-flush,8 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X8MB1TL8 2M,M8,Non-flush,8 mm,"IO-Link, PNP",NO,Cable,Stainless steel,COM3 (230.4 kbps),47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X8MB1TL8-M1,M8,Non-flush,8 mm,"IO-Link, PNP",NO,Connector M12,Stainless steel,COM3 (230.4 kbps),53 mm,30 mm,IP67/IP69K
+E2E-X8MB1TL8-M1TJ 0.3M,M8,Non-flush,8 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,Stainless steel,COM3 (230.4 kbps),47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X8MB1TL8-M3,M8,Non-flush,8 mm,"IO-Link, PNP",NO,Connector M8 - 4 pin,Stainless steel,COM3 (230.4 kbps),49 mm,30 mm,IP67/IP69K
+E2E-X8MB1TL8-M5,M8,Non-flush,8 mm,"IO-Link, PNP",NO,Connector M8 - 3 pin,Stainless steel,COM3 (230.4 kbps),49 mm,30 mm,IP67/IP69K
+E2E-X8MB212 2M,M12,Non-flush,8 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X8MB212 5M,M12,Non-flush,8 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X8MB212-M1,M12,Non-flush,8 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,26 mm,IP67/IP69K
+E2E-X8MB28 2M,M8,Non-flush,8 mm,PNP,NC,Cable,Stainless steel,Not Applicable,37.8 mm,20 mm,IP67/IP67G/IP69K
+E2E-X8MB28-M1,M8,Non-flush,8 mm,PNP,NC,Connector M12,Stainless steel,Not Applicable,43 mm,20 mm,IP67/IP69K
+E2E-X8MB28-M5,M8,Non-flush,8 mm,PNP,NC,Connector M8 - 3 pin,Stainless steel,Not Applicable,39 mm,20 mm,IP67/IP69K
+E2E-X8MB2L12 2M,M12,Non-flush,8 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X8MB2L12 5M,M12,Non-flush,8 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X8MB2L12-M1,M12,Non-flush,8 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,48 mm,IP67/IP69K
+E2E-X8MB2L8 2M,M8,Non-flush,8 mm,PNP,NC,Cable,Stainless steel,Not Applicable,47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X8MB2L8-M1,M8,Non-flush,8 mm,PNP,NC,Connector M12,Stainless steel,Not Applicable,53 mm,30 mm,IP67/IP69K
+E2E-X8MB2L8-M5,M8,Non-flush,8 mm,PNP,NC,Connector M8 - 3 pin,Stainless steel,Not Applicable,49 mm,30 mm,IP67/IP69K
+E2E-X8MB3D12 2M,M12,Non-flush,8 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X8MB3D12 5M,M12,Non-flush,8 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X8MB3D12-M1,M12,Non-flush,8 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),48 mm,26 mm,IP67/IP69K
+E2E-X8MB3DL12 2M,M12,Non-flush,8 mm,"IO-Link, PNP",NO + NC,Cable,"Brass, nickel plated",COM2 (38.4 kbps),69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X8MB3DL12-M1,M12,Non-flush,8 mm,"IO-Link, PNP",NO + NC,Connector M12,"Brass, nickel plated",COM2 (38.4 kbps),70 mm,48 mm,IP67/IP69K
+E2E-X8MC112 2M,M12,Non-flush,8 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X8MC112 5M,M12,Non-flush,8 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X8MC112-M1,M12,Non-flush,8 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,26 mm,IP67/IP69K
+E2E-X8MC1L12 2M,M12,Non-flush,8 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X8MC1L12 5M,M12,Non-flush,8 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X8MC1L12-M1,M12,Non-flush,8 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,48 mm,IP67/IP69K
+E2E-X8MC1L8 2M,M8,Non-flush,8 mm,NPN,NO,Cable,Stainless steel,Not Applicable,47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X8MC1L8-M1,M8,Non-flush,8 mm,NPN,NO,Connector M12,High-grade stainless steel,Not Applicable,53 mm,30 mm,IP67/IP69K
+E2E-X8MC212 2M,M12,Non-flush,8 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X8MC212 5M,M12,Non-flush,8 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X8MC212-M1,M12,Non-flush,8 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,26 mm,IP67/IP69K
+E2E-X8MC2L12 2M,M12,Non-flush,8 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X8MC2L12 5M,M12,Non-flush,8 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X8MC2L12-M1,M12,Non-flush,8 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,48 mm,IP67/IP69K
+E2E-X8MC2L8 2M,M8,Non-flush,8 mm,NPN,NC,Cable,Stainless steel,Not Applicable,47.8 mm,30 mm,IP67/IP67G/IP69K
+E2E-X8MC2L8-M1,M8,Non-flush,8 mm,NPN,NC,Connector M12,High-grade stainless steel,Not Applicable,53 mm,30 mm,IP67/IP69K
+E2E-X8MC312 2M,M12,Non-flush,8 mm,NPN,NO + NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,26 mm,IP67/IP67G/IP69K
+E2E-X8MC312-M1,M12,Non-flush,8 mm,NPN,NO + NC,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,26 mm,IP67/IP69K
+E2E-X8MC3L12 2M,M12,Non-flush,8 mm,NPN,NO + NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,48 mm,IP67/IP67G/IP69K
+E2E-X8MC3L12-M1,M12,Non-flush,8 mm,NPN,NO + NC,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,48 mm,IP67/IP69K
+E2E-X9B1T12 2M,M12,Quasi-flush,9 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X9B1T12 5M,M12,Quasi-flush,9 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X9B1T12-M1,M12,Quasi-flush,9 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),48 mm,28 mm,IP67/IP69K
+E2E-X9B1T12-M1TJ 0.3M,M12,Quasi-flush,9 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X9B1T12-R 2M,M12,Quasi-flush,9 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X9B1TL12 2M,M12,Quasi-flush,9 mm,"IO-Link, PNP",NO,Cable,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,54 mm,IP67/IP67G/IP69K
+E2E-X9B1TL12-M1,M12,Quasi-flush,9 mm,"IO-Link, PNP",NO,Connector M12,"Brass, nickel plated",COM3 (230.4 kbps),70 mm,54 mm,IP67/IP69K
+E2E-X9B1TL12-M1TJ 0.3M,M12,Quasi-flush,9 mm,"IO-Link, PNP",NO,M12 pigtail Smartclick connector,"Brass, nickel plated",COM3 (230.4 kbps),69.1 mm,54 mm,IP67/IP67G/IP69K
+E2E-X9B212 2M,M12,Quasi-flush,9 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X9B212-M1,M12,Quasi-flush,9 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,28 mm,IP67/IP69K
+E2E-X9B212-M1TJ 0.3M,M12,Quasi-flush,9 mm,PNP,NC,M12 pigtail Smartclick connector,"Brass, nickel plated",Not Applicable,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X9B2L12 2M,M12,Quasi-flush,9 mm,PNP,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,54 mm,IP67/IP67G/IP69K
+E2E-X9B2L12-M1,M12,Quasi-flush,9 mm,PNP,NC,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,54 mm,IP67/IP69K
+E2E-X9C112 2M,M12,Quasi-flush,9 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X9C112-M1,M12,Quasi-flush,9 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,28 mm,IP67/IP69K
+E2E-X9C112-M1TJ 0.3M,M12,Quasi-flush,9 mm,NPN,NO,M12 pigtail Smartclick connector,"Brass, nickel plated",Not Applicable,47.1 mm,28 mm,IP67/IP67G/IP69K
+E2E-X9C1L12 2M,M12,Quasi-flush,9 mm,NPN,NO,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,54 mm,IP67/IP67G/IP69K
+E2E-X9C1L12-M1,M12,Quasi-flush,9 mm,NPN,NO,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,54 mm,IP67/IP69K
+E2E-X9C212-M1,M12,Quasi-flush,9 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,48 mm,28 mm,IP67/IP69K
+E2E-X9C2L12 2M,M12,Flush,9 mm,NPN,NC,Cable,"Brass, nickel plated",Not Applicable,69.1 mm,54 mm,IP67/IP67G/IP69K
+E2E-X9C2L12-M1,M12,Quasi-flush,9 mm,NPN,NC,Connector M12,"Brass, nickel plated",Not Applicable,70 mm,55 mm,IP67/IP69K
